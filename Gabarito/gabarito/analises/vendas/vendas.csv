@@ -1,0 +1,6 @@
+ID_Pedido;Data_Compra;Cliente_ID;Valor_Total;Categoria_Produto;Quantidade
+1001;2024-03-01;501;150.75;Eletrônicos;1
+1002;2024-03-02;502;200.5;Roupas;3
+1003;2024-03-03;503;320.0;Casa;2
+1004;2024-03-04;501;90.25;Eletrônicos;1
+1005;2024-03-05;504;450.6;Esportes;4

@@ -1,0 +1,1001 @@
+ID DO CANDIDATO,DATA DE INSCRIÇÃO,NOME COMPLETO,GÊNERO,ESTADO,IDADE,FORMAÇÃO ACADÊMICA,ÁREA DE ATUAÇÃO,ANOS DE EXPERIÊNCIA,CERTIFICAÇÕES,IDIOMA,PRETENSÃO SALARIAL,SALÁRIO DA VAGA,DISPONÍVEL PARA VIAGENS,DISPONÍVEL PARA MUDANÇA,É PCD,STATUS DE CONTRATAÇÃO
+1,2022-04-13,Candidato_1,Masculino,SP,23.0,Mestrado,Financeiro,4.8,3.0,Espanhol,7500.0,7200.0,Não,Sim,Não,0.0
+2,2023-03-12,Candidato_2,Masculino,MG,,Ensino Médio,Administração,5.5,3.0,Francês,3700.0,3400.0,Sim,,Não,0.0
+3,2022-09-28,Candidato_3,Masculino,DF,61.0,Doutorado,Administração,6.3,3.0,Espanhol,9200.0,9600.0,Não,Sim,Não,0.0
+4,2022-04-17,Candidato_4,Outro,PE,28.0,,Engenharia,2.7,2.0,Espanhol,9300.0,10000.0,Não,Sim,Não,0.0
+5,2022-03-13,Candidato_5,Outro,RS,19.0,Ensino Médio,Tecnologia,7.4,1.0,Nenhum,8100.0,8000.0,Sim,Não,Não,0.0
+6,2023-12-02,Candidato_6,Feminino,SC,,Mestrado,Tecnologia,8.5,0.0,Espanhol,4000.0,4100.0,Não,Sim,Não,0.0
+7,2022-01-21,Candidato_7,,DF,,Doutorado,Marketing,7.3,2.0,Espanhol,6800.0,7300.0,Sim,Não,Não,0.0
+8,2023-09-07,Candidato_8,Outro,,61.0,Ensino Médio,,2.5,2.0,Francês,9900.0,,Sim,Não,Não,
+9,2022-05-02,,Feminino,SC,,Doutorado,Educação,1.1,2.0,Espanhol,5900.0,6800.0,Sim,Não,Não,0.0
+10,2023-04-12,Candidato_10,Outro,,38.0,Doutorado,Tecnologia,6.4,3.0,Alemão,,,Não,Não,,0.0
+11,2022-08-03,Candidato_11,Masculino,BA,41.0,Mestrado,Engenharia,3.5,3.0,Francês,7100.0,8400.0,Sim,Não,Não,0.0
+12,2022-11-27,,Masculino,PR,,Tecnólogo,Engenharia,,1.0,Inglês,8400.0,8900.0,,Sim,Não,0.0
+13,2023-04-04,Candidato_13,Feminino,CE,39.0,Ensino Médio,Financeiro,8.1,2.0,Francês,6200.0,6900.0,Não,Sim,Não,0.0
+14,2022-03-29,,Feminino,PR,20.0,Mestrado,Marketing,3.7,1.0,Espanhol,7200.0,7800.0,,Não,Não,0.0
+15,2023-01-08,Candidato_15,,PE,29.0,Doutorado,Engenharia,4.2,2.0,Alemão,,7000.0,Não,,Não,0.0
+16,2022-04-10,Candidato_16,Masculino,SC,45.0,Mestrado,Recursos Humanos,5.6,0.0,Francês,4800.0,4000.0,Não,Não,Não,0.0
+17,2023-10-26,Candidato_17,Outro,CE,47.0,Tecnólogo,Administração,,1.0,Alemão,7500.0,8200.0,,Sim,,0.0
+18,2022-05-11,Candidato_18,Masculino,RS,43.0,Ensino Médio,Recursos Humanos,3.5,1.0,Inglês,1600.0,1600.0,Não,Sim,Não,1.0
+19,2023-10-24,Candidato_19,Feminino,,38.0,Tecnólogo,Administração,5.0,2.0,Inglês,5800.0,6300.0,Não,Sim,Não,1.0
+20,2022-11-05,Candidato_20,Outro,,,Graduação,Saúde,4.4,,Nenhum,,8000.0,Sim,Sim,Não,0.0
+21,2022-12-10,Candidato_21,Outro,PR,43.0,Ensino Médio,Marketing,6.2,1.0,Nenhum,9200.0,8500.0,Sim,Sim,Não,0.0
+22,2023-05-07,Candidato_22,Masculino,SP,50.0,,Financeiro,10.5,2.0,Francês,7900.0,7200.0,Sim,Sim,Não,1.0
+23,2023-02-18,Candidato_23,Feminino,CE,38.0,,Educação,5.2,4.0,Nenhum,4200.0,4600.0,,Sim,Não,1.0
+24,2023-01-21,Candidato_24,Masculino,CE,52.0,Ensino Médio,Recursos Humanos,3.3,0.0,Alemão,9100.0,8300.0,Não,Não,Não,0.0
+25,2022-07-11,Candidato_25,Outro,RJ,51.0,Ensino Médio,Recursos Humanos,7.8,1.0,Nenhum,4700.0,5100.0,Sim,Não,Não,0.0
+26,2022-10-04,,Masculino,MG,,,Saúde,,4.0,Alemão,8200.0,7800.0,Sim,Não,Não,0.0
+27,2022-06-10,Candidato_27,Masculino,BA,64.0,Doutorado,Administração,2.2,2.0,Nenhum,4800.0,5300.0,Sim,Sim,Não,0.0
+28,2023-04-05,Candidato_28,Feminino,BA,35.0,,Financeiro,3.8,1.0,,5500.0,4700.0,,Sim,Não,0.0
+29,2022-11-10,Candidato_29,,SP,28.0,Tecnólogo,Saúde,4.4,,Nenhum,5100.0,4500.0,Não,Não,Não,0.0
+30,2022-01-22,Candidato_30,Outro,PE,40.0,Mestrado,Marketing,3.8,3.0,Espanhol,7300.0,7800.0,Não,Não,Não,1.0
+31,2022-09-10,Candidato_31,Masculino,PE,39.0,Tecnólogo,Financeiro,4.9,1.0,Espanhol,6600.0,6800.0,Não,,Não,0.0
+32,2023-07-15,Candidato_32,Masculino,RS,34.0,,Marketing,5.5,3.0,Nenhum,8000.0,7100.0,Não,Não,Não,0.0
+33,2023-04-20,Candidato_33,Masculino,SC,,Graduação,Engenharia,7.1,3.0,Alemão,7000.0,8100.0,Sim,Não,Não,0.0
+34,2022-02-28,Candidato_34,Outro,DF,61.0,,Tecnologia,5.2,2.0,Francês,4000.0,,Não,Não,Não,
+35,2023-05-26,Candidato_35,Outro,MG,,Graduação,Engenharia,3.9,2.0,Inglês,7600.0,7400.0,Não,Não,Não,0.0
+36,2023-11-13,Candidato_36,Feminino,PR,47.0,Tecnólogo,Marketing,7.0,4.0,Espanhol,,3100.0,Não,Sim,Não,0.0
+37,2023-04-21,Candidato_37,Feminino,DF,32.0,Doutorado,Recursos Humanos,3.4,1.0,Nenhum,5200.0,5000.0,Sim,Não,Não,0.0
+38,2023-12-01,,Feminino,DF,44.0,Doutorado,Financeiro,1.7,1.0,Inglês,6300.0,,Sim,Não,Não,0.0
+39,2022-07-09,,Masculino,CE,52.0,Ensino Médio,Administração,7.4,,Espanhol,6100.0,5600.0,Não,Não,,1.0
+40,2023-11-18,Candidato_40,,SP,50.0,Tecnólogo,Educação,7.3,1.0,Francês,3700.0,4100.0,Sim,Não,Não,0.0
+41,2023-07-17,Candidato_41,Feminino,BA,37.0,Tecnólogo,,3.4,3.0,Alemão,9700.0,9300.0,,Sim,Não,
+42,2023-07-21,,Masculino,RS,33.0,Graduação,Financeiro,4.2,3.0,Nenhum,10300.0,11200.0,Sim,Não,Não,0.0
+43,2022-09-01,Candidato_43,Feminino,PE,51.0,Tecnólogo,,3.2,,Francês,11500.0,10200.0,Sim,Não,Não,0.0
+44,2023-05-20,Candidato_44,Outro,SP,19.0,Mestrado,Educação,5.7,,Espanhol,9300.0,8800.0,Não,Não,Não,0.0
+45,2022-05-11,,Feminino,CE,52.0,Graduação,Financeiro,8.5,1.0,Nenhum,6200.0,,,,Não,
+46,2023-04-30,Candidato_46,Outro,PR,57.0,Mestrado,Marketing,6.4,1.0,Inglês,6200.0,,Não,Não,Não,0.0
+47,2023-10-09,,Masculino,RS,45.0,Ensino Médio,,7.1,1.0,Alemão,,6400.0,Não,Sim,Não,0.0
+48,2022-01-21,Candidato_48,Feminino,CE,64.0,Doutorado,Administração,6.6,2.0,Espanhol,11000.0,,Não,Não,Não,1.0
+49,2022-06-16,Candidato_49,Masculino,BA,56.0,Ensino Médio,,5.0,0.0,Alemão,6800.0,6700.0,Sim,Não,Não,0.0
+50,2022-10-01,Candidato_50,Outro,BA,23.0,Doutorado,Educação,7.2,,Nenhum,,10600.0,Sim,Sim,Não,0.0
+51,2023-01-23,Candidato_51,Outro,BA,26.0,Ensino Médio,,6.5,2.0,Francês,9400.0,,Não,Não,Não,0.0
+52,2023-08-24,Candidato_52,Outro,SP,37.0,Tecnólogo,Administração,7.9,4.0,Alemão,7400.0,5900.0,Não,Sim,Não,1.0
+53,2022-11-12,Candidato_53,Masculino,SP,18.0,Mestrado,Marketing,,0.0,Inglês,4100.0,3700.0,Sim,Não,Não,0.0
+54,2022-01-14,Candidato_54,Masculino,PE,25.0,Doutorado,Saúde,1.5,0.0,Espanhol,6800.0,6800.0,Não,Sim,Não,
+55,2022-08-30,Candidato_55,Masculino,PE,40.0,Graduação,Marketing,7.1,1.0,Inglês,7300.0,7600.0,Sim,Sim,,1.0
+56,2022-12-12,Candidato_56,Masculino,PR,20.0,Mestrado,Educação,5.7,1.0,Alemão,9600.0,7900.0,Sim,Não,Não,0.0
+57,2023-07-19,,Outro,RS,21.0,Graduação,Marketing,4.4,,Francês,7000.0,7600.0,Sim,Sim,Não,
+58,2022-12-06,,Outro,RJ,42.0,Mestrado,,4.5,2.0,Francês,4600.0,4700.0,Não,,,0.0
+59,2022-04-02,Candidato_59,Feminino,RJ,64.0,Mestrado,Financeiro,10.1,2.0,Inglês,9000.0,9100.0,Não,Sim,Não,1.0
+60,2023-01-02,Candidato_60,Feminino,CE,55.0,Ensino Médio,Engenharia,3.7,2.0,Nenhum,6500.0,6000.0,Sim,Sim,Não,1.0
+61,2023-03-31,Candidato_61,Masculino,BA,32.0,Doutorado,Recursos Humanos,3.3,5.0,,1900.0,2000.0,Não,Não,,
+62,2023-03-04,Candidato_62,Outro,RS,38.0,Doutorado,Saúde,5.2,3.0,Francês,7600.0,6200.0,Não,Sim,Não,1.0
+63,2023-05-24,Candidato_63,Outro,,52.0,Mestrado,Tecnologia,7.4,4.0,Inglês,8000.0,6600.0,Sim,,Não,1.0
+64,2022-02-04,Candidato_64,Outro,SP,63.0,,Financeiro,,3.0,Inglês,5300.0,5800.0,Sim,Sim,Não,0.0
+65,2022-07-25,Candidato_65,Feminino,SC,31.0,,Engenharia,,0.0,Inglês,6600.0,6100.0,Não,Sim,Não,
+66,2022-03-22,Candidato_66,Feminino,MG,53.0,Graduação,Tecnologia,2.5,3.0,Alemão,8300.0,7800.0,,Não,,0.0
+67,2023-07-16,Candidato_67,Outro,PR,,Graduação,Administração,8.9,2.0,Nenhum,7700.0,6800.0,Não,Não,Não,0.0
+68,2023-01-23,Candidato_68,Outro,BA,34.0,Ensino Médio,Tecnologia,5.0,,,3900.0,3800.0,,Sim,Não,
+69,2022-01-02,Candidato_69,Outro,BA,56.0,Mestrado,Financeiro,3.3,3.0,,9500.0,7800.0,,Não,Não,0.0
+70,2023-01-25,Candidato_70,Feminino,BA,26.0,Graduação,Marketing,2.8,1.0,Espanhol,,9600.0,Não,Não,Não,1.0
+71,2023-07-20,Candidato_71,Outro,SP,52.0,Graduação,Financeiro,6.7,1.0,Alemão,6000.0,6100.0,Não,,Não,
+72,2022-04-16,Candidato_72,Outro,SP,30.0,Mestrado,Recursos Humanos,5.5,4.0,Inglês,3200.0,3200.0,Não,Sim,Não,0.0
+73,2023-04-22,Candidato_73,Masculino,MG,32.0,Ensino Médio,Tecnologia,5.7,0.0,Alemão,8500.0,10200.0,Não,,Não,0.0
+74,2023-12-04,Candidato_74,Masculino,DF,35.0,Graduação,Educação,7.6,2.0,Inglês,5700.0,5400.0,Não,Sim,Não,1.0
+75,2023-02-06,Candidato_75,Feminino,RS,50.0,Ensino Médio,Engenharia,3.4,3.0,Francês,8100.0,7700.0,Sim,Não,Não,0.0
+76,2023-12-31,Candidato_76,Outro,BA,23.0,Doutorado,Engenharia,7.7,1.0,Inglês,11400.0,11400.0,,Não,Não,0.0
+77,2023-07-10,Candidato_77,Outro,RJ,44.0,Ensino Médio,Tecnologia,4.0,0.0,Nenhum,3900.0,3400.0,Não,Não,Não,0.0
+78,2022-06-11,Candidato_78,,PE,40.0,Tecnólogo,Engenharia,9.3,3.0,Alemão,5400.0,6200.0,,Não,Não,0.0
+79,2022-07-21,,Feminino,,44.0,Tecnólogo,Educação,6.2,2.0,Inglês,6600.0,6800.0,Não,Não,,0.0
+80,2022-09-27,Candidato_80,Masculino,CE,51.0,Ensino Médio,Financeiro,3.2,1.0,Espanhol,9600.0,8400.0,Sim,Não,Não,0.0
+81,2022-09-28,Candidato_81,Masculino,RJ,63.0,Tecnólogo,Engenharia,0.9,2.0,Francês,14100.0,15800.0,,Sim,Não,1.0
+82,2023-04-01,Candidato_82,Masculino,CE,55.0,Doutorado,Tecnologia,6.6,1.0,Espanhol,7500.0,6100.0,Não,Não,Não,0.0
+83,2023-04-07,Candidato_83,Masculino,SC,31.0,Mestrado,Saúde,4.3,0.0,Espanhol,3700.0,4400.0,Não,Sim,Não,0.0
+84,2023-12-28,Candidato_84,Outro,PE,53.0,Tecnólogo,Saúde,4.7,2.0,Espanhol,6300.0,7200.0,Não,Não,Não,0.0
+85,2022-09-09,Candidato_85,Outro,RJ,25.0,Tecnólogo,Administração,,0.0,Francês,5500.0,5700.0,Sim,Sim,Não,0.0
+86,2023-12-03,Candidato_86,Masculino,SC,52.0,Ensino Médio,Recursos Humanos,7.0,,,8400.0,7100.0,,,Não,0.0
+87,2022-10-23,Candidato_87,Feminino,PR,36.0,,Engenharia,7.4,2.0,Francês,7800.0,6900.0,Não,,Não,0.0
+88,2023-12-26,,Feminino,RS,47.0,Mestrado,Recursos Humanos,2.7,,Francês,4900.0,4500.0,Não,Não,Não,0.0
+89,2023-12-21,Candidato_89,Feminino,SC,31.0,Ensino Médio,Financeiro,,1.0,Espanhol,5300.0,4800.0,Não,Sim,Não,1.0
+90,2022-12-04,Candidato_90,,RS,37.0,Ensino Médio,Tecnologia,3.8,0.0,Nenhum,6300.0,6300.0,Não,Sim,Não,0.0
+91,2022-02-22,Candidato_91,Masculino,RJ,,Doutorado,Engenharia,0.5,0.0,Nenhum,6500.0,7700.0,Não,Não,Não,0.0
+92,2022-08-05,Candidato_92,Outro,DF,57.0,Mestrado,Marketing,2.6,4.0,Francês,6900.0,6700.0,Sim,Sim,Não,0.0
+93,2022-07-07,Candidato_93,Feminino,SC,41.0,Doutorado,Educação,5.4,,Alemão,7100.0,7600.0,Sim,Sim,Não,0.0
+94,2023-01-15,Candidato_94,Masculino,PE,31.0,Mestrado,Engenharia,3.0,5.0,Inglês,9500.0,10200.0,Sim,Não,Não,0.0
+95,2023-05-08,Candidato_95,Feminino,RJ,,Doutorado,Engenharia,4.8,0.0,Alemão,6200.0,,,,Não,0.0
+96,2022-02-10,Candidato_96,Feminino,BA,55.0,Ensino Médio,Recursos Humanos,5.7,3.0,Alemão,5900.0,4800.0,Não,,,1.0
+97,2022-06-06,Candidato_97,Masculino,SP,40.0,Ensino Médio,Recursos Humanos,4.6,2.0,Alemão,4300.0,4100.0,Não,Não,Não,
+98,2022-01-15,Candidato_98,Outro,SC,39.0,Graduação,Saúde,4.0,1.0,Nenhum,6600.0,7400.0,,Sim,,0.0
+99,2022-03-06,Candidato_99,Outro,,36.0,Tecnólogo,Educação,2.5,1.0,,7500.0,8400.0,Sim,Sim,Não,
+100,2023-06-05,Candidato_100,Masculino,PR,63.0,Doutorado,Tecnologia,,1.0,Alemão,3600.0,4200.0,Sim,Sim,Não,0.0
+101,2022-12-10,Candidato_101,Outro,BA,,,Engenharia,0.9,2.0,Francês,6300.0,6800.0,Não,Sim,,1.0
+102,2022-05-09,Candidato_102,Masculino,PR,59.0,Tecnólogo,Saúde,3.6,3.0,,9300.0,8400.0,,Não,Não,0.0
+103,2023-10-10,Candidato_103,Masculino,RJ,36.0,Doutorado,Recursos Humanos,3.1,2.0,Francês,8300.0,8300.0,Não,Não,Não,
+104,2023-04-17,Candidato_104,Masculino,SP,26.0,Mestrado,Administração,4.5,,Francês,7700.0,6300.0,Sim,Não,Não,0.0
+105,2022-03-04,Candidato_105,,SC,45.0,Tecnólogo,Educação,4.6,3.0,Alemão,8200.0,8700.0,Sim,Não,Não,1.0
+106,2022-05-19,,Masculino,SC,37.0,Ensino Médio,,6.9,1.0,Francês,5900.0,6000.0,Sim,Sim,Não,1.0
+107,2023-05-14,Candidato_107,Feminino,DF,62.0,Graduação,Saúde,8.2,2.0,Inglês,5600.0,,Sim,Não,Não,0.0
+108,2023-08-16,,Outro,DF,24.0,Tecnólogo,Financeiro,2.8,,Francês,9500.0,,Sim,Não,Não,0.0
+109,2023-01-27,Candidato_109,Outro,RJ,31.0,,Saúde,9.0,2.0,Alemão,8700.0,9400.0,Não,,Não,0.0
+110,2023-11-06,Candidato_110,Outro,RJ,,Ensino Médio,Financeiro,3.4,4.0,Francês,5500.0,5100.0,Não,Sim,Não,0.0
+111,2023-02-23,Candidato_111,Outro,SP,36.0,,Engenharia,5.3,1.0,Nenhum,3200.0,2800.0,Não,Sim,Não,0.0
+112,2022-10-16,Candidato_112,Feminino,DF,64.0,Mestrado,Engenharia,6.0,0.0,Nenhum,5500.0,6300.0,Não,,,0.0
+113,2023-01-14,Candidato_113,Outro,PE,31.0,,Recursos Humanos,,1.0,Nenhum,8100.0,7100.0,Não,Sim,Não,0.0
+114,2023-05-05,Candidato_114,Outro,PE,55.0,Mestrado,Administração,3.9,2.0,Espanhol,5700.0,4900.0,Sim,Sim,Não,0.0
+115,2022-08-19,Candidato_115,Masculino,SP,53.0,Doutorado,Marketing,1.4,,Nenhum,7700.0,6800.0,Não,,Não,0.0
+116,2022-02-10,Candidato_116,Outro,PE,57.0,Tecnólogo,Marketing,8.0,1.0,Nenhum,9800.0,9800.0,Sim,Não,Não,1.0
+117,2022-01-28,Candidato_117,Feminino,CE,34.0,Mestrado,Marketing,3.3,0.0,Espanhol,6800.0,5800.0,Não,Não,Não,1.0
+118,2022-05-15,Candidato_118,Feminino,RS,47.0,,Recursos Humanos,,2.0,Nenhum,7500.0,8800.0,Sim,Não,Não,0.0
+119,2022-07-20,Candidato_119,Feminino,SP,26.0,Graduação,Financeiro,2.8,2.0,,8400.0,10000.0,Sim,Não,Não,1.0
+120,2022-02-02,Candidato_120,Feminino,SP,50.0,Ensino Médio,Recursos Humanos,,3.0,Nenhum,4800.0,,Sim,Não,Não,0.0
+121,2022-02-17,Candidato_121,Outro,MG,42.0,Doutorado,Educação,,0.0,,5500.0,4500.0,Sim,Não,Não,1.0
+122,2023-05-18,Candidato_122,Outro,BA,31.0,Ensino Médio,Educação,6.4,5.0,,8500.0,,,Não,Não,0.0
+123,2023-02-11,Candidato_123,Feminino,BA,,Ensino Médio,Administração,5.2,5.0,Alemão,7100.0,8500.0,Sim,Sim,Não,0.0
+124,2023-07-28,Candidato_124,Feminino,CE,52.0,Ensino Médio,Educação,3.6,1.0,Francês,7200.0,,Não,Sim,Não,
+125,2023-12-29,Candidato_125,Outro,DF,58.0,Graduação,,7.0,4.0,Inglês,7100.0,7600.0,Sim,Sim,Não,0.0
+126,2022-04-09,Candidato_126,,RJ,31.0,Graduação,Marketing,5.5,2.0,Alemão,9000.0,9700.0,Sim,Não,,1.0
+127,2023-11-15,Candidato_127,Masculino,RJ,47.0,Ensino Médio,,1.3,3.0,,7900.0,6700.0,Não,Não,Não,1.0
+128,2023-12-27,Candidato_128,,PR,58.0,Graduação,Saúde,6.8,2.0,Alemão,7900.0,9100.0,Sim,Sim,Não,1.0
+129,2023-07-01,Candidato_129,Feminino,CE,21.0,Doutorado,Educação,5.4,3.0,Francês,9400.0,7700.0,Não,Sim,Não,0.0
+130,2023-09-05,Candidato_130,Masculino,SP,21.0,Ensino Médio,Recursos Humanos,7.8,2.0,Francês,10200.0,9500.0,Não,Não,Não,0.0
+131,2023-04-07,Candidato_131,Masculino,CE,45.0,Graduação,Engenharia,5.2,2.0,Alemão,,13800.0,Sim,Não,Não,
+132,2023-10-05,Candidato_132,Outro,CE,25.0,Mestrado,Engenharia,3.4,2.0,Espanhol,5800.0,5600.0,,Não,Não,1.0
+133,2022-01-05,Candidato_133,Outro,CE,19.0,Ensino Médio,Saúde,4.6,2.0,Alemão,11900.0,10100.0,Não,Não,Não,0.0
+134,2022-08-06,Candidato_134,Masculino,BA,58.0,Ensino Médio,,6.6,0.0,Alemão,4800.0,5700.0,Sim,Não,Não,
+135,2023-05-18,Candidato_135,,,63.0,Doutorado,Saúde,3.5,4.0,Francês,10900.0,13000.0,Não,,Não,0.0
+136,2023-02-02,Candidato_136,Outro,RS,39.0,Tecnólogo,Recursos Humanos,4.1,4.0,Inglês,5700.0,5000.0,Sim,,Não,0.0
+137,2023-01-28,Candidato_137,Feminino,,58.0,Tecnólogo,Engenharia,4.6,1.0,Francês,6900.0,7900.0,Não,Não,Não,0.0
+138,2022-07-26,Candidato_138,Masculino,PR,33.0,Doutorado,,2.7,3.0,,,6700.0,Sim,Sim,,0.0
+139,2022-01-15,Candidato_139,Outro,RS,46.0,,Saúde,3.5,0.0,Alemão,5300.0,5000.0,Sim,Não,Não,1.0
+140,2023-07-08,Candidato_140,Feminino,PR,47.0,Doutorado,Administração,5.3,,Alemão,,6500.0,Não,Não,Não,0.0
+141,2023-04-06,Candidato_141,Masculino,MG,29.0,Tecnólogo,Financeiro,7.4,,Espanhol,5400.0,4400.0,Não,Não,Não,1.0
+142,2023-11-22,Candidato_142,Feminino,PR,,,Recursos Humanos,5.6,3.0,Francês,4500.0,4100.0,Não,Sim,Não,0.0
+143,2023-07-29,Candidato_143,Outro,RJ,28.0,Graduação,Saúde,4.9,2.0,Espanhol,6900.0,5700.0,Não,Sim,Não,0.0
+144,2022-08-29,Candidato_144,Masculino,RJ,63.0,Ensino Médio,,3.3,1.0,Alemão,10200.0,11900.0,,,Não,0.0
+145,2023-07-18,Candidato_145,Feminino,,38.0,Ensino Médio,Tecnologia,7.2,0.0,Francês,6500.0,6900.0,,Sim,Não,
+146,2022-04-06,Candidato_146,Masculino,,38.0,Mestrado,Saúde,5.9,0.0,Francês,8900.0,10300.0,Não,Sim,,0.0
+147,2023-04-30,Candidato_147,Feminino,MG,22.0,Mestrado,Engenharia,3.6,4.0,Nenhum,5300.0,,Sim,Sim,Não,1.0
+148,2023-02-11,,Outro,SP,37.0,Ensino Médio,Educação,,2.0,Nenhum,4400.0,3800.0,Sim,Não,Sim,0.0
+149,2022-08-19,Candidato_149,Outro,PE,,Graduação,Saúde,,2.0,Inglês,7900.0,9300.0,Não,Não,,0.0
+150,2023-10-17,Candidato_150,,PR,20.0,Tecnólogo,Recursos Humanos,,,Nenhum,,12200.0,Sim,Não,Não,0.0
+151,2022-06-20,Candidato_151,Feminino,SC,61.0,Tecnólogo,Educação,,5.0,Francês,7400.0,7000.0,Não,Não,,1.0
+152,2023-06-25,Candidato_152,Masculino,CE,50.0,Graduação,Tecnologia,4.0,3.0,,8700.0,7300.0,Sim,Não,Não,0.0
+153,2022-02-05,Candidato_153,Masculino,BA,26.0,Tecnólogo,,,0.0,Inglês,10000.0,10800.0,Não,Não,Não,
+154,2023-06-09,Candidato_154,Feminino,SP,26.0,Doutorado,Educação,6.1,0.0,Alemão,6900.0,7500.0,Sim,Não,Não,0.0
+155,2022-06-09,Candidato_155,Feminino,DF,21.0,Ensino Médio,Financeiro,5.4,2.0,Nenhum,6700.0,7800.0,Não,Sim,Não,1.0
+156,2023-11-30,Candidato_156,Feminino,SC,52.0,Ensino Médio,Marketing,5.9,2.0,Francês,7900.0,6500.0,Não,Não,Não,0.0
+157,2022-08-31,Candidato_157,Outro,BA,34.0,,Saúde,7.8,2.0,,8300.0,7100.0,Sim,Não,Não,0.0
+158,2022-03-27,Candidato_158,Masculino,MG,51.0,Tecnólogo,Tecnologia,4.8,3.0,Francês,4200.0,4400.0,Sim,Não,Não,0.0
+159,2023-08-01,,Masculino,CE,41.0,,,3.8,0.0,Alemão,7600.0,8000.0,,Não,Não,1.0
+160,2023-11-13,Candidato_160,Outro,SP,49.0,Mestrado,Educação,6.7,0.0,Francês,7000.0,5700.0,Não,Não,Não,
+161,2023-07-11,Candidato_161,Feminino,SP,18.0,Tecnólogo,Administração,4.7,3.0,Nenhum,,5200.0,Sim,Não,Não,1.0
+162,2023-07-28,Candidato_162,Outro,SP,25.0,Mestrado,Engenharia,2.9,2.0,Nenhum,6900.0,7100.0,,Não,Não,0.0
+163,2023-10-08,Candidato_163,Outro,MG,62.0,Graduação,Saúde,,3.0,,,5100.0,Sim,Não,Não,0.0
+164,2022-01-28,Candidato_164,Outro,,40.0,Graduação,Tecnologia,8.1,1.0,Alemão,4000.0,3700.0,Sim,Sim,,0.0
+165,2023-09-12,Candidato_165,Masculino,DF,64.0,Tecnólogo,Administração,5.3,3.0,Inglês,7100.0,7100.0,,Sim,Sim,1.0
+166,2023-07-10,Candidato_166,Outro,MG,57.0,Mestrado,Marketing,3.8,3.0,,8800.0,,,Não,Não,0.0
+167,2022-12-06,Candidato_167,Masculino,PE,29.0,Graduação,Tecnologia,4.5,1.0,Nenhum,6300.0,7400.0,Sim,Não,Não,1.0
+168,2022-11-27,Candidato_168,Masculino,DF,,Graduação,Administração,,3.0,Alemão,5100.0,4500.0,Sim,Sim,Não,0.0
+169,2023-10-02,Candidato_169,Masculino,RJ,63.0,Doutorado,Recursos Humanos,4.4,4.0,Inglês,5400.0,4900.0,Sim,Não,Não,1.0
+170,2023-05-21,Candidato_170,Feminino,CE,64.0,Doutorado,Engenharia,2.1,2.0,Inglês,8100.0,9500.0,Não,Não,Não,0.0
+171,2022-12-14,Candidato_171,,MG,32.0,,Engenharia,5.7,1.0,Espanhol,10300.0,9900.0,,Sim,Não,0.0
+172,2023-04-18,Candidato_172,Masculino,BA,,Tecnólogo,Tecnologia,,,Inglês,8500.0,9200.0,Sim,,Não,0.0
+173,2022-08-19,Candidato_173,Feminino,DF,36.0,Ensino Médio,Financeiro,7.3,1.0,Francês,9600.0,10000.0,Não,Não,Não,0.0
+174,2022-07-09,Candidato_174,Masculino,,43.0,Ensino Médio,Tecnologia,3.9,1.0,,4900.0,4500.0,Não,Não,Não,0.0
+175,2022-08-13,Candidato_175,Outro,,46.0,Graduação,,7.5,3.0,Inglês,6900.0,7300.0,Não,Sim,Sim,0.0
+176,2023-01-20,Candidato_176,Outro,PR,39.0,Graduação,Saúde,5.4,1.0,,9000.0,9600.0,Não,Sim,Não,
+177,2023-01-12,Candidato_177,,BA,57.0,Graduação,Administração,,4.0,Espanhol,4200.0,4400.0,Não,Não,Não,0.0
+178,2022-10-10,Candidato_178,Feminino,,,Tecnólogo,Tecnologia,6.1,3.0,Francês,5700.0,4800.0,,Sim,Não,0.0
+179,2023-09-25,Candidato_179,Outro,CE,,Doutorado,Saúde,2.0,0.0,Inglês,8900.0,10700.0,Sim,Sim,Não,0.0
+180,2023-09-20,Candidato_180,Feminino,BA,37.0,Graduação,Educação,8.5,2.0,Nenhum,7500.0,7200.0,Não,Sim,Não,0.0
+181,2022-09-16,Candidato_181,Feminino,RJ,46.0,Graduação,Recursos Humanos,5.1,3.0,,5100.0,5400.0,Não,Não,Não,0.0
+182,2022-12-25,Candidato_182,Outro,BA,21.0,Mestrado,Recursos Humanos,6.2,2.0,Inglês,3700.0,4300.0,Não,Sim,Não,0.0
+183,2023-12-11,,Feminino,,24.0,Tecnólogo,Saúde,2.3,1.0,Francês,9700.0,9400.0,Sim,Sim,Sim,0.0
+184,2023-04-01,Candidato_184,Outro,SC,45.0,,,6.0,4.0,,2900.0,3200.0,,Sim,Não,1.0
+185,2023-02-15,Candidato_185,Feminino,PR,45.0,Mestrado,,,1.0,Nenhum,8300.0,9900.0,Sim,Não,Não,1.0
+186,2023-10-11,Candidato_186,Outro,RJ,21.0,Ensino Médio,Administração,8.9,1.0,Francês,5900.0,5600.0,Não,Sim,Não,
+187,2022-11-14,Candidato_187,Masculino,BA,39.0,,Administração,7.8,0.0,Francês,9100.0,8800.0,Não,Sim,Não,0.0
+188,2023-11-08,Candidato_188,Outro,SC,29.0,Graduação,,6.1,,,4900.0,5700.0,Sim,Não,Não,
+189,2022-08-13,Candidato_189,Outro,,62.0,Mestrado,,1.9,0.0,Alemão,,10500.0,Sim,Sim,Não,0.0
+190,2022-08-22,Candidato_190,,,20.0,Tecnólogo,Engenharia,5.3,2.0,Espanhol,,6300.0,Não,Sim,Não,
+191,2023-11-15,Candidato_191,Outro,CE,39.0,Graduação,Financeiro,3.8,1.0,Alemão,,,Sim,Sim,Não,0.0
+192,2023-10-26,Candidato_192,Feminino,RS,,Ensino Médio,Tecnologia,5.5,1.0,Alemão,5500.0,6200.0,,,Não,0.0
+193,2023-01-09,Candidato_193,Masculino,MG,19.0,Graduação,Recursos Humanos,2.6,2.0,Nenhum,6700.0,8000.0,Não,Não,Não,0.0
+194,2023-11-03,Candidato_194,Outro,RS,,Ensino Médio,Recursos Humanos,4.6,4.0,Francês,6800.0,5600.0,,Sim,Não,0.0
+195,2023-08-31,Candidato_195,Feminino,BA,51.0,Doutorado,Recursos Humanos,4.0,,Nenhum,10600.0,9100.0,Não,Sim,Não,0.0
+196,2023-04-17,Candidato_196,Masculino,PR,44.0,Doutorado,Administração,3.9,3.0,Espanhol,7800.0,6600.0,Sim,Sim,Não,0.0
+197,2022-08-21,Candidato_197,Masculino,,58.0,,Tecnologia,3.9,4.0,Inglês,8100.0,8700.0,,,Não,0.0
+198,2023-11-23,,Masculino,RJ,18.0,Tecnólogo,Educação,4.7,1.0,Espanhol,8100.0,8400.0,Não,Sim,Não,0.0
+199,2022-04-23,Candidato_199,Masculino,,25.0,Graduação,Tecnologia,5.6,2.0,Nenhum,8300.0,7800.0,Sim,Sim,Não,
+200,2023-05-12,Candidato_200,Outro,BA,40.0,Graduação,,0.0,1.0,Nenhum,4200.0,3500.0,Sim,Não,Não,1.0
+201,2023-03-18,Candidato_201,Outro,RS,55.0,Doutorado,Engenharia,0.2,1.0,Nenhum,11100.0,11700.0,Não,Sim,Não,0.0
+202,2023-07-18,Candidato_202,Feminino,,23.0,Ensino Médio,Financeiro,4.3,4.0,Nenhum,5200.0,5300.0,Sim,Sim,,0.0
+203,2022-09-25,,Feminino,PE,39.0,Graduação,,4.6,2.0,,6900.0,5800.0,Não,Sim,Não,0.0
+204,2023-05-25,,Feminino,DF,42.0,Graduação,Recursos Humanos,,0.0,Inglês,10100.0,11800.0,Sim,Não,Não,0.0
+205,2023-01-21,Candidato_205,Masculino,RS,35.0,Tecnólogo,Tecnologia,3.5,3.0,,10900.0,9600.0,Não,Sim,Não,0.0
+206,2023-01-22,Candidato_206,,RJ,34.0,Mestrado,Financeiro,5.0,1.0,Nenhum,8600.0,9400.0,Sim,Não,Não,0.0
+207,2022-04-23,Candidato_207,Outro,RJ,29.0,Doutorado,Recursos Humanos,5.3,2.0,Francês,6000.0,,Sim,Sim,Não,0.0
+208,2023-09-05,Candidato_208,Masculino,SP,,Doutorado,Financeiro,3.5,2.0,,7300.0,7500.0,Sim,Sim,,0.0
+209,2023-09-17,Candidato_209,Masculino,RS,43.0,Mestrado,Educação,7.0,0.0,Nenhum,7300.0,6600.0,Sim,Sim,Não,1.0
+210,2022-03-22,Candidato_210,Masculino,DF,44.0,Graduação,Marketing,,2.0,Nenhum,7400.0,6800.0,,Sim,,1.0
+211,2023-11-30,Candidato_211,Feminino,CE,25.0,,Engenharia,6.1,5.0,,4500.0,5200.0,Sim,Sim,Não,0.0
+212,2022-04-23,Candidato_212,Feminino,SC,36.0,Tecnólogo,Financeiro,5.1,2.0,Espanhol,9500.0,8700.0,Não,Sim,Não,
+213,2022-01-02,Candidato_213,Outro,DF,,Doutorado,Administração,9.2,3.0,Alemão,,8000.0,Sim,Não,,0.0
+214,2023-10-04,Candidato_214,Masculino,SC,18.0,Tecnólogo,Saúde,6.2,0.0,Alemão,5600.0,6700.0,Sim,Sim,Não,1.0
+215,2022-08-08,Candidato_215,Masculino,SC,,Mestrado,,4.0,2.0,Alemão,6000.0,7200.0,Não,Sim,Não,1.0
+216,2023-07-20,Candidato_216,Outro,PE,62.0,Graduação,Recursos Humanos,6.6,1.0,Nenhum,7500.0,7600.0,Sim,Sim,Não,1.0
+217,2022-08-13,Candidato_217,Masculino,SP,52.0,Mestrado,Educação,1.7,3.0,Inglês,4200.0,4700.0,Sim,Não,Não,0.0
+218,2023-01-20,Candidato_218,Masculino,DF,57.0,Ensino Médio,Educação,5.2,2.0,,8800.0,10500.0,Não,Sim,,
+219,2023-02-07,Candidato_219,Feminino,DF,31.0,Doutorado,Administração,5.6,1.0,Nenhum,7500.0,7100.0,Sim,Não,Não,0.0
+220,2023-09-30,Candidato_220,Outro,PE,52.0,Tecnólogo,Engenharia,5.3,2.0,Francês,10100.0,9100.0,Não,Sim,Não,1.0
+221,2022-05-10,,Outro,RS,,Ensino Médio,Administração,4.3,1.0,Inglês,7200.0,6100.0,Sim,,Não,1.0
+222,2022-02-22,Candidato_222,Outro,RS,37.0,Tecnólogo,Tecnologia,3.0,2.0,,,4100.0,Sim,Não,Não,0.0
+223,2023-11-15,Candidato_223,Outro,RS,30.0,,Recursos Humanos,3.4,5.0,,4600.0,5300.0,Sim,Não,Não,
+224,2023-12-31,Candidato_224,Feminino,PR,,Graduação,,,3.0,,6200.0,6400.0,Não,Sim,Não,1.0
+225,2023-11-03,Candidato_225,Feminino,SC,63.0,Graduação,Administração,2.8,,Nenhum,6400.0,7400.0,Sim,Não,Não,0.0
+226,2023-12-11,Candidato_226,Masculino,PR,25.0,,Saúde,8.5,2.0,Inglês,5900.0,6600.0,Sim,Não,Não,0.0
+227,2023-02-20,Candidato_227,Masculino,,60.0,Ensino Médio,Saúde,-0.3,2.0,Inglês,7300.0,7800.0,Sim,Sim,Não,0.0
+228,2022-09-04,Candidato_228,Masculino,PE,37.0,Graduação,Recursos Humanos,4.4,0.0,Inglês,5800.0,6100.0,Sim,,Não,0.0
+229,2023-03-15,Candidato_229,Masculino,DF,,Ensino Médio,Marketing,5.2,2.0,Francês,7500.0,6100.0,Sim,Sim,Não,
+230,2022-07-22,Candidato_230,Feminino,SC,43.0,Tecnólogo,Saúde,6.0,1.0,Alemão,,6900.0,Sim,Não,,0.0
+231,2022-07-03,Candidato_231,Outro,PR,56.0,Ensino Médio,,3.2,,Francês,8300.0,8000.0,Sim,Sim,Não,0.0
+232,2022-05-03,Candidato_232,Feminino,,38.0,Tecnólogo,Saúde,7.3,2.0,Espanhol,6400.0,,Sim,Sim,Não,0.0
+233,2023-02-05,Candidato_233,Masculino,BA,59.0,Tecnólogo,,2.2,,Nenhum,,7700.0,Sim,Não,Não,0.0
+234,2022-10-21,Candidato_234,Feminino,PR,60.0,Doutorado,Engenharia,3.9,,Francês,8300.0,9700.0,Não,Não,Não,0.0
+235,2022-10-07,Candidato_235,Outro,CE,58.0,Tecnólogo,Financeiro,6.2,,Francês,7400.0,8600.0,Sim,Sim,Não,0.0
+236,2023-09-02,Candidato_236,,DF,26.0,Tecnólogo,,7.1,,Nenhum,6600.0,6700.0,Não,Não,Sim,0.0
+237,2022-07-17,Candidato_237,Feminino,CE,41.0,Mestrado,Tecnologia,2.2,2.0,Inglês,,4100.0,Não,Não,Não,
+238,2023-05-26,Candidato_238,Feminino,DF,54.0,Graduação,Engenharia,10.3,1.0,Nenhum,9800.0,10600.0,Não,Não,Não,1.0
+239,2022-05-24,Candidato_239,Feminino,PE,58.0,Doutorado,Marketing,3.2,1.0,Alemão,5600.0,5100.0,Sim,Sim,Não,0.0
+240,2023-09-01,,Masculino,DF,34.0,Doutorado,Tecnologia,,3.0,Nenhum,7200.0,6400.0,Não,Sim,Não,1.0
+241,2022-07-20,Candidato_241,Feminino,CE,41.0,Doutorado,Administração,6.0,,Inglês,7700.0,8200.0,Não,Sim,Não,0.0
+242,2022-05-04,Candidato_242,Feminino,DF,38.0,Mestrado,Financeiro,4.3,1.0,Nenhum,,5600.0,Não,Não,,1.0
+243,2022-07-06,,Feminino,PE,56.0,Tecnólogo,Administração,4.0,0.0,Francês,9700.0,9500.0,Sim,Sim,,0.0
+244,2022-11-22,Candidato_244,Outro,PE,58.0,Graduação,Financeiro,6.2,3.0,Espanhol,4600.0,4600.0,Não,Sim,,0.0
+245,2023-04-09,Candidato_245,Outro,SP,56.0,Ensino Médio,Financeiro,,3.0,Francês,10500.0,10000.0,Sim,Não,Não,
+246,2022-12-15,Candidato_246,Masculino,DF,30.0,Tecnólogo,Administração,1.6,3.0,Espanhol,,7300.0,Não,Não,Sim,0.0
+247,2023-10-22,Candidato_247,Masculino,BA,28.0,,Tecnologia,3.8,0.0,Nenhum,6500.0,6100.0,,Sim,Não,
+248,2023-02-07,Candidato_248,,,63.0,Tecnólogo,Tecnologia,7.2,0.0,Alemão,6500.0,6100.0,,Não,Não,0.0
+249,2022-12-12,Candidato_249,Outro,RJ,36.0,Tecnólogo,Financeiro,3.9,0.0,Nenhum,2600.0,2600.0,Sim,Sim,Não,0.0
+250,2023-05-26,Candidato_250,Outro,PE,28.0,Mestrado,Tecnologia,8.2,4.0,,5300.0,5700.0,Não,,Não,1.0
+251,2022-05-27,Candidato_251,Feminino,MG,30.0,Doutorado,Financeiro,7.4,1.0,Nenhum,6300.0,7500.0,Não,Sim,Não,0.0
+252,2022-05-28,Candidato_252,Feminino,RS,63.0,Doutorado,Recursos Humanos,5.6,3.0,Espanhol,7400.0,6300.0,Não,Não,Não,0.0
+253,2023-12-12,,Outro,SC,62.0,Graduação,Financeiro,5.7,0.0,Francês,9500.0,10900.0,Sim,,Não,0.0
+254,2023-05-04,Candidato_254,Feminino,DF,18.0,,Recursos Humanos,5.6,0.0,Alemão,11100.0,10100.0,Sim,Sim,Não,0.0
+255,2023-10-02,Candidato_255,Feminino,CE,57.0,Doutorado,Engenharia,5.3,4.0,Nenhum,7500.0,7800.0,,Sim,Não,
+256,2023-07-05,Candidato_256,Masculino,RJ,61.0,Ensino Médio,Educação,4.3,1.0,Nenhum,7400.0,,Não,Sim,Não,1.0
+257,2022-12-04,,Outro,MG,36.0,Tecnólogo,Engenharia,4.5,2.0,Francês,6000.0,6100.0,Sim,Sim,Não,1.0
+258,2023-10-03,Candidato_258,Outro,RS,29.0,Ensino Médio,Administração,2.9,4.0,Alemão,3600.0,3900.0,Sim,Não,Não,1.0
+259,2023-04-18,,Feminino,DF,25.0,Tecnólogo,Educação,0.6,1.0,Nenhum,5800.0,5500.0,Não,Sim,Não,0.0
+260,2022-05-31,Candidato_260,Outro,,,Doutorado,Saúde,7.2,0.0,Nenhum,6600.0,6100.0,Sim,Sim,Não,0.0
+261,2023-02-19,Candidato_261,Masculino,SC,62.0,Graduação,Administração,5.3,1.0,Espanhol,9000.0,10300.0,Não,Não,Não,0.0
+262,2022-10-25,Candidato_262,Masculino,RJ,,Graduação,Marketing,5.0,2.0,Espanhol,8000.0,7100.0,Sim,Sim,Não,1.0
+263,2023-09-03,Candidato_263,Masculino,,,Ensino Médio,Engenharia,5.8,1.0,Inglês,7400.0,6500.0,,Sim,Não,1.0
+264,2022-09-20,,Outro,SP,,,Tecnologia,3.3,1.0,Francês,5800.0,4700.0,,Sim,Não,0.0
+265,2022-05-24,Candidato_265,Outro,MG,,Doutorado,Engenharia,3.0,1.0,Alemão,3000.0,2700.0,Não,Sim,Não,0.0
+266,2022-12-12,Candidato_266,Outro,RJ,56.0,Ensino Médio,Tecnologia,4.4,,Nenhum,3200.0,3200.0,Sim,Sim,Sim,1.0
+267,2023-09-16,Candidato_267,Outro,SP,45.0,Tecnólogo,Educação,,1.0,Nenhum,3700.0,3800.0,Não,Não,Não,0.0
+268,2023-07-26,Candidato_268,Outro,SC,22.0,,,2.7,,Inglês,6400.0,5800.0,Não,Não,Não,
+269,2022-01-02,Candidato_269,Masculino,BA,25.0,,Educação,-0.3,3.0,Nenhum,9000.0,7500.0,Sim,Não,Não,
+270,2022-10-31,Candidato_270,,SP,42.0,Graduação,Marketing,4.0,1.0,Francês,8900.0,9800.0,Não,Não,,0.0
+271,2022-09-11,Candidato_271,Masculino,PR,44.0,Tecnólogo,Engenharia,7.3,2.0,Inglês,8600.0,9500.0,Não,Sim,Sim,
+272,2023-10-14,Candidato_272,Outro,BA,63.0,Ensino Médio,Tecnologia,1.5,0.0,Francês,6000.0,7200.0,Não,Não,Não,0.0
+273,2023-03-29,Candidato_273,Masculino,MG,40.0,Tecnólogo,Educação,,1.0,,9300.0,10800.0,Sim,Não,Não,0.0
+274,2022-02-06,Candidato_274,Outro,SC,47.0,Mestrado,Marketing,,,Nenhum,5100.0,6000.0,Sim,Não,Não,0.0
+275,2022-06-09,Candidato_275,Outro,DF,,Doutorado,Financeiro,,1.0,Inglês,,9700.0,Sim,Não,Não,1.0
+276,2022-01-09,Candidato_276,Masculino,CE,,Graduação,Administração,2.3,,Espanhol,3700.0,3900.0,Sim,,Não,0.0
+277,2022-08-21,Candidato_277,Outro,CE,40.0,Ensino Médio,Administração,2.2,2.0,Alemão,4600.0,3900.0,Não,Não,Não,
+278,2022-04-09,Candidato_278,Feminino,,64.0,Doutorado,Educação,5.7,0.0,Nenhum,,,Sim,Não,,0.0
+279,2023-10-21,Candidato_279,Outro,RJ,37.0,Tecnólogo,Tecnologia,,4.0,Alemão,6600.0,5400.0,Sim,Não,Não,1.0
+280,2022-07-27,Candidato_280,Feminino,MG,35.0,Ensino Médio,Financeiro,3.8,,Nenhum,5600.0,6500.0,Sim,Sim,Não,0.0
+281,2022-05-11,Candidato_281,Feminino,SC,,Doutorado,Educação,1.8,1.0,Alemão,9200.0,9100.0,Não,Não,Não,0.0
+282,2023-02-08,Candidato_282,Outro,BA,19.0,Ensino Médio,Engenharia,5.9,1.0,Espanhol,9400.0,10100.0,Não,Sim,,0.0
+283,2022-06-01,Candidato_283,Masculino,RJ,21.0,Mestrado,Marketing,6.2,2.0,Alemão,6100.0,5000.0,Não,Não,Não,
+284,2022-02-23,Candidato_284,Feminino,,47.0,Mestrado,Recursos Humanos,8.6,1.0,,7600.0,7700.0,Sim,Não,Não,1.0
+285,2022-04-30,Candidato_285,Masculino,DF,50.0,Graduação,Engenharia,6.3,2.0,Alemão,,6700.0,Não,Não,Não,0.0
+286,2023-11-04,Candidato_286,Feminino,PR,,Graduação,Administração,6.7,,Nenhum,1300.0,1200.0,Não,,Não,0.0
+287,2023-09-20,,,SC,35.0,,Marketing,4.5,1.0,Francês,4200.0,4000.0,Sim,Sim,Não,1.0
+288,2023-08-10,Candidato_288,,CE,54.0,,Educação,9.9,1.0,,8900.0,7100.0,Não,,Não,0.0
+289,2023-09-17,Candidato_289,Feminino,SP,36.0,Mestrado,,4.2,5.0,Alemão,5300.0,5200.0,Sim,Sim,Não,1.0
+290,2023-02-24,Candidato_290,Outro,SC,64.0,Graduação,Saúde,3.8,1.0,,8100.0,,Sim,,Não,0.0
+291,2023-02-26,,Feminino,PE,45.0,Mestrado,Recursos Humanos,8.6,6.0,Nenhum,,8600.0,Não,Sim,Não,1.0
+292,2022-04-14,,Outro,MG,57.0,Mestrado,,2.1,4.0,Alemão,9400.0,9200.0,Sim,Sim,Não,
+293,2022-09-11,Candidato_293,,RS,37.0,Ensino Médio,Financeiro,1.3,2.0,,4300.0,4100.0,Sim,Sim,Não,1.0
+294,2022-08-15,Candidato_294,,DF,50.0,Doutorado,Financeiro,5.2,1.0,Nenhum,7800.0,9300.0,Sim,Não,Não,
+295,2022-04-22,Candidato_295,Masculino,PR,29.0,Graduação,Tecnologia,5.0,1.0,Francês,6900.0,7100.0,Sim,Sim,Não,0.0
+296,2023-05-25,Candidato_296,,DF,32.0,Ensino Médio,,4.5,3.0,Inglês,5400.0,5300.0,Sim,Sim,Sim,0.0
+297,2023-04-18,Candidato_297,Masculino,SC,58.0,Mestrado,Administração,7.0,2.0,,5400.0,5400.0,Sim,Não,Não,0.0
+298,2022-04-09,Candidato_298,Outro,RS,56.0,Mestrado,Marketing,3.2,,Espanhol,7500.0,8400.0,Não,,Não,
+299,2022-06-02,Candidato_299,Masculino,PE,,Doutorado,Tecnologia,5.1,4.0,Alemão,8300.0,7800.0,,Não,Não,0.0
+300,2022-12-04,Candidato_300,Feminino,BA,46.0,Graduação,Saúde,4.3,2.0,Espanhol,7100.0,6800.0,Sim,Não,Não,0.0
+301,2023-12-07,Candidato_301,Feminino,SP,58.0,Graduação,Educação,3.2,1.0,Alemão,7200.0,7900.0,Sim,Sim,Não,
+302,2022-06-12,Candidato_302,Masculino,,27.0,Tecnólogo,Recursos Humanos,4.9,3.0,Francês,6000.0,5000.0,Sim,,Não,
+303,2023-12-21,Candidato_303,Outro,MG,19.0,,Financeiro,6.7,2.0,Nenhum,6100.0,7000.0,Não,Sim,,
+304,2023-11-12,Candidato_304,Masculino,CE,28.0,Doutorado,Recursos Humanos,9.2,4.0,Inglês,5400.0,5200.0,Não,Sim,Não,0.0
+305,2022-06-10,Candidato_305,Outro,PE,30.0,Tecnólogo,Saúde,6.2,4.0,Nenhum,6000.0,6200.0,,Não,Não,0.0
+306,2023-08-03,Candidato_306,Feminino,SP,27.0,Tecnólogo,Recursos Humanos,-0.0,1.0,Alemão,8200.0,9000.0,Não,Sim,Não,
+307,2023-02-02,Candidato_307,Outro,PR,31.0,Mestrado,,4.9,4.0,,8400.0,7600.0,Sim,Sim,Não,1.0
+308,2022-10-04,Candidato_308,Feminino,CE,35.0,Mestrado,Administração,,0.0,Nenhum,4400.0,5100.0,Sim,Não,Não,0.0
+309,2023-05-19,Candidato_309,Outro,SC,26.0,Graduação,Engenharia,6.9,3.0,Inglês,,6200.0,Sim,Não,Não,
+310,2023-01-27,Candidato_310,Outro,RS,56.0,Tecnólogo,Tecnologia,5.4,3.0,Alemão,5600.0,5600.0,Sim,Sim,Não,0.0
+311,2022-05-15,Candidato_311,Outro,SP,45.0,Mestrado,Engenharia,,2.0,Francês,6900.0,,Não,Não,Não,0.0
+312,2022-07-14,Candidato_312,Masculino,RJ,20.0,Doutorado,Recursos Humanos,5.8,3.0,Francês,3600.0,2900.0,,Não,Sim,0.0
+313,2023-02-05,Candidato_313,Masculino,BA,37.0,Mestrado,Financeiro,8.1,,Nenhum,5200.0,6000.0,Sim,Não,,0.0
+314,2023-10-02,Candidato_314,Feminino,BA,23.0,Mestrado,Saúde,4.1,4.0,Espanhol,4200.0,3900.0,Sim,,Não,0.0
+315,2022-02-02,Candidato_315,Feminino,PE,44.0,Tecnólogo,Marketing,5.3,3.0,Alemão,7800.0,7200.0,Não,Sim,Não,0.0
+316,2023-11-19,Candidato_316,Masculino,PR,19.0,Tecnólogo,Recursos Humanos,6.7,0.0,Nenhum,6900.0,6100.0,Não,Sim,Não,1.0
+317,2023-04-05,Candidato_317,Feminino,PE,46.0,,Marketing,3.9,2.0,,6100.0,5700.0,Sim,Não,Não,1.0
+318,2023-04-15,Candidato_318,Masculino,RJ,55.0,Doutorado,Administração,3.4,1.0,Francês,,4300.0,Não,,Não,0.0
+319,2023-01-10,Candidato_319,Outro,MG,20.0,Tecnólogo,Marketing,3.7,0.0,Inglês,6100.0,7100.0,Sim,Não,Não,0.0
+320,2022-01-22,Candidato_320,Feminino,PR,33.0,,Marketing,3.5,3.0,Alemão,5900.0,6800.0,Não,Não,Não,0.0
+321,2023-11-01,Candidato_321,Feminino,,47.0,Doutorado,Financeiro,6.0,,Inglês,,8700.0,Não,Sim,Não,1.0
+322,2022-02-07,Candidato_322,,MG,57.0,Doutorado,,1.3,1.0,Alemão,9000.0,7700.0,Não,Sim,,0.0
+323,2022-08-18,Candidato_323,Feminino,PR,19.0,Tecnólogo,Recursos Humanos,1.9,,Espanhol,5600.0,6400.0,Não,,Não,0.0
+324,2022-12-31,Candidato_324,Feminino,PR,34.0,Doutorado,Saúde,8.7,4.0,Francês,,7000.0,Sim,Sim,Não,0.0
+325,2023-07-17,Candidato_325,Outro,RJ,58.0,Tecnólogo,Marketing,3.5,3.0,Espanhol,8900.0,7700.0,Sim,Não,,0.0
+326,2023-03-14,Candidato_326,Feminino,SC,29.0,Mestrado,Educação,5.4,0.0,Nenhum,5600.0,5600.0,Não,Não,Não,0.0
+327,2022-10-10,Candidato_327,Outro,RJ,52.0,Ensino Médio,Marketing,2.0,1.0,Francês,4200.0,4100.0,Sim,Sim,Não,1.0
+328,2022-01-27,Candidato_328,Masculino,PR,60.0,Mestrado,Marketing,5.2,4.0,Nenhum,3400.0,3000.0,Não,Não,Não,0.0
+329,2022-08-14,,Feminino,SP,,Tecnólogo,Engenharia,3.6,2.0,Espanhol,9500.0,10300.0,Não,Sim,Não,0.0
+330,2022-10-04,Candidato_330,Outro,MG,62.0,Tecnólogo,Saúde,1.9,1.0,Alemão,6600.0,6900.0,Sim,,,0.0
+331,2023-09-01,Candidato_331,Masculino,RJ,32.0,Mestrado,Recursos Humanos,,2.0,Nenhum,7600.0,,Sim,Sim,Não,0.0
+332,2022-10-11,Candidato_332,Feminino,,43.0,Graduação,Administração,7.4,1.0,Inglês,5900.0,6900.0,Sim,Não,Não,0.0
+333,2023-04-26,Candidato_333,Masculino,RS,54.0,Graduação,,4.8,3.0,Alemão,4500.0,4600.0,Não,,Não,0.0
+334,2023-03-29,Candidato_334,Feminino,,38.0,Graduação,Recursos Humanos,7.0,3.0,Alemão,4800.0,4300.0,Sim,Sim,Não,0.0
+335,2023-10-21,Candidato_335,Masculino,,48.0,Tecnólogo,Tecnologia,8.8,6.0,Espanhol,4300.0,3800.0,Sim,Sim,Não,1.0
+336,2023-05-31,Candidato_336,Masculino,DF,42.0,,Saúde,6.5,,Espanhol,8700.0,7400.0,Sim,Sim,Não,
+337,2023-07-01,Candidato_337,Outro,RS,40.0,Tecnólogo,Educação,6.0,3.0,Francês,10000.0,9700.0,Sim,Sim,Não,0.0
+338,2022-07-11,Candidato_338,Masculino,BA,41.0,Doutorado,,,1.0,Francês,,6100.0,Não,Não,,1.0
+339,2022-02-18,,Feminino,CE,55.0,,Tecnologia,6.3,4.0,,4000.0,3900.0,Não,Não,,1.0
+340,2023-05-27,Candidato_340,Feminino,SC,45.0,Ensino Médio,,4.3,2.0,Alemão,8000.0,6900.0,Não,Sim,Não,0.0
+341,2022-01-17,Candidato_341,Outro,DF,38.0,Doutorado,Tecnologia,4.4,3.0,Inglês,9500.0,10100.0,Não,Sim,,0.0
+342,2022-06-21,Candidato_342,Feminino,CE,60.0,Graduação,,5.9,1.0,,8900.0,9900.0,Não,Não,Não,0.0
+343,2022-08-08,Candidato_343,Feminino,SC,35.0,Tecnólogo,Administração,4.1,2.0,,6900.0,7000.0,Não,Sim,Não,0.0
+344,2022-06-07,Candidato_344,Feminino,,53.0,Mestrado,,4.3,2.0,,6500.0,7000.0,Não,,Não,
+345,2023-04-22,Candidato_345,Masculino,PE,52.0,Graduação,Saúde,5.0,2.0,Inglês,6900.0,8100.0,Sim,Não,Não,0.0
+346,2022-02-15,Candidato_346,Masculino,RS,62.0,Mestrado,Recursos Humanos,7.3,1.0,Nenhum,9500.0,,Não,Sim,Sim,0.0
+347,2023-01-08,,Feminino,MG,26.0,,Financeiro,2.7,4.0,Francês,8500.0,,Não,Não,Não,0.0
+348,2023-06-02,Candidato_348,Outro,,55.0,Tecnólogo,Recursos Humanos,6.5,1.0,,6200.0,6100.0,,Não,Não,0.0
+349,2022-04-09,,Masculino,MG,47.0,Tecnólogo,Marketing,6.6,1.0,Alemão,,7100.0,Não,Não,Não,0.0
+350,2022-02-06,Candidato_350,Outro,PE,61.0,Ensino Médio,Marketing,6.6,,Francês,6000.0,5100.0,Sim,,Não,0.0
+351,2022-10-07,Candidato_351,Feminino,PR,51.0,Tecnólogo,Educação,3.4,2.0,,4900.0,4600.0,Não,Sim,Não,0.0
+352,2022-12-15,,Feminino,BA,49.0,Doutorado,Tecnologia,1.6,5.0,Nenhum,9700.0,10000.0,Não,Não,Sim,1.0
+353,2023-05-12,Candidato_353,Masculino,RS,,Mestrado,Administração,6.1,0.0,Francês,5400.0,5800.0,Sim,Não,Não,1.0
+354,2022-10-29,Candidato_354,Feminino,PE,20.0,Graduação,Educação,5.4,0.0,Nenhum,8000.0,8800.0,Não,Não,Não,1.0
+355,2022-06-30,Candidato_355,Masculino,PE,45.0,Ensino Médio,Engenharia,7.0,2.0,Francês,5700.0,5300.0,Não,Sim,Não,1.0
+356,2023-08-30,Candidato_356,Feminino,SP,61.0,Doutorado,,3.6,1.0,Francês,6000.0,5200.0,Não,Sim,Não,1.0
+357,2022-04-09,Candidato_357,Feminino,CE,32.0,Graduação,Financeiro,6.5,4.0,Nenhum,6800.0,8000.0,Não,Sim,Não,0.0
+358,2023-12-01,,Masculino,BA,58.0,Graduação,Administração,,4.0,Inglês,8100.0,6700.0,Não,Não,Não,0.0
+359,2022-04-26,Candidato_359,Masculino,RS,40.0,Ensino Médio,Marketing,4.8,2.0,Inglês,6500.0,5400.0,Não,Sim,Não,0.0
+360,2022-07-10,Candidato_360,Masculino,PR,57.0,Doutorado,Recursos Humanos,5.8,1.0,Inglês,4700.0,4700.0,Não,,Não,0.0
+361,2022-09-10,Candidato_361,Feminino,PR,28.0,Graduação,Financeiro,5.8,1.0,Inglês,7000.0,7900.0,Sim,,Não,0.0
+362,2022-06-10,Candidato_362,,RJ,49.0,Graduação,Administração,3.4,4.0,Francês,5500.0,6100.0,Sim,Não,Não,1.0
+363,2022-09-13,,Outro,PE,53.0,Doutorado,Financeiro,6.1,1.0,Espanhol,10100.0,11900.0,Não,Sim,Não,0.0
+364,2022-11-19,Candidato_364,Masculino,SC,50.0,Tecnólogo,Financeiro,8.2,8.0,Nenhum,6500.0,5600.0,Sim,Sim,Não,0.0
+365,2022-05-08,Candidato_365,Feminino,SP,41.0,Graduação,Tecnologia,5.0,0.0,Espanhol,5700.0,,Não,Sim,Não,0.0
+366,2022-01-18,Candidato_366,Feminino,BA,56.0,Mestrado,,2.1,,Espanhol,10900.0,10000.0,Sim,Não,Não,0.0
+367,2023-07-20,Candidato_367,Masculino,,51.0,Doutorado,Tecnologia,3.6,3.0,Alemão,8500.0,9700.0,,Não,Não,1.0
+368,2023-07-24,Candidato_368,Outro,,45.0,Graduação,Engenharia,1.4,1.0,Inglês,5200.0,5200.0,Sim,Sim,,0.0
+369,2022-11-19,Candidato_369,Masculino,RJ,,Ensino Médio,Financeiro,7.6,3.0,Francês,5400.0,4400.0,Não,Sim,Não,
+370,2023-11-17,Candidato_370,Outro,RS,24.0,Mestrado,Educação,6.5,2.0,Inglês,7900.0,8600.0,Sim,Sim,,0.0
+371,2023-09-18,Candidato_371,Feminino,SP,21.0,Graduação,Recursos Humanos,4.0,,Inglês,7100.0,6800.0,Sim,Não,Não,1.0
+372,2022-10-15,,Outro,SC,54.0,Mestrado,Marketing,2.2,1.0,Espanhol,8800.0,,Não,Não,Não,0.0
+373,2023-10-25,Candidato_373,,,18.0,Mestrado,,3.3,2.0,Alemão,5700.0,6600.0,,Sim,Não,0.0
+374,2023-10-01,Candidato_374,Masculino,RJ,18.0,Tecnólogo,Engenharia,3.7,0.0,Inglês,8400.0,,Sim,Não,Não,1.0
+375,2022-06-04,Candidato_375,Masculino,CE,64.0,Mestrado,Engenharia,5.2,1.0,Nenhum,2500.0,2200.0,Sim,Sim,Sim,0.0
+376,2023-05-05,,Masculino,BA,37.0,Tecnólogo,Engenharia,,0.0,Nenhum,6700.0,6100.0,,Não,Não,0.0
+377,2023-01-21,Candidato_377,Outro,RJ,36.0,Doutorado,Financeiro,7.7,5.0,Inglês,5800.0,5400.0,Sim,Sim,Não,0.0
+378,2022-04-14,Candidato_378,Feminino,CE,46.0,,,3.6,4.0,Espanhol,6100.0,5100.0,,Não,Sim,1.0
+379,2023-01-28,Candidato_379,Masculino,CE,27.0,Ensino Médio,Educação,2.0,3.0,Espanhol,6800.0,7300.0,Sim,Sim,Não,0.0
+380,2022-09-03,Candidato_380,Masculino,SP,35.0,Graduação,Administração,2.7,1.0,Francês,9300.0,8200.0,Sim,Não,Não,0.0
+381,2022-06-25,Candidato_381,Feminino,MG,45.0,Doutorado,Marketing,5.0,2.0,Alemão,4700.0,5500.0,Não,Sim,Não,0.0
+382,2022-02-08,Candidato_382,Masculino,RS,52.0,Doutorado,Financeiro,3.5,1.0,Espanhol,2600.0,2300.0,Não,Sim,Não,0.0
+383,2023-04-22,Candidato_383,Feminino,SC,60.0,Ensino Médio,Engenharia,4.4,4.0,Francês,4900.0,4400.0,Não,Sim,Não,0.0
+384,2023-11-13,Candidato_384,Feminino,DF,64.0,Tecnólogo,Educação,4.1,1.0,Nenhum,9000.0,8300.0,Sim,Sim,Não,0.0
+385,2023-06-22,Candidato_385,Feminino,,48.0,Graduação,Educação,7.0,0.0,Nenhum,3700.0,4100.0,Sim,Não,Não,0.0
+386,2023-02-12,Candidato_386,Feminino,RJ,44.0,Tecnólogo,Saúde,3.8,3.0,Nenhum,5900.0,5700.0,Sim,Sim,Não,0.0
+387,2023-06-09,Candidato_387,Feminino,SC,28.0,Mestrado,Marketing,4.2,1.0,Inglês,8700.0,,Não,Não,Não,0.0
+388,2023-05-21,Candidato_388,Outro,PR,55.0,Tecnólogo,Recursos Humanos,6.4,3.0,Alemão,6900.0,7700.0,Sim,Não,,0.0
+389,2022-02-05,Candidato_389,,MG,22.0,Doutorado,Recursos Humanos,3.9,0.0,Francês,9300.0,10900.0,Sim,Sim,Não,0.0
+390,2023-11-16,Candidato_390,Outro,PR,25.0,Graduação,Educação,5.8,2.0,Alemão,2900.0,3200.0,Não,Sim,Não,0.0
+391,2022-01-20,Candidato_391,Masculino,PR,51.0,Tecnólogo,Financeiro,5.7,2.0,Inglês,,,Sim,,Não,0.0
+392,2022-11-17,Candidato_392,Outro,BA,29.0,Graduação,Engenharia,5.3,1.0,Francês,9700.0,11000.0,Sim,Sim,Não,1.0
+393,2023-05-27,Candidato_393,Feminino,RS,55.0,Graduação,,2.7,3.0,Francês,,5500.0,Não,Não,Não,0.0
+394,2023-02-04,Candidato_394,Masculino,DF,18.0,Mestrado,Educação,7.5,3.0,Espanhol,9100.0,10900.0,Não,Não,Não,0.0
+395,2023-10-16,Candidato_395,Masculino,SP,48.0,Mestrado,Administração,9.4,1.0,Alemão,6500.0,5500.0,Não,Não,Não,0.0
+396,2023-04-16,Candidato_396,Outro,DF,,Doutorado,Marketing,5.0,1.0,Alemão,7900.0,,,Não,Não,0.0
+397,2022-05-23,Candidato_397,Outro,PR,62.0,Ensino Médio,Engenharia,2.9,3.0,,9500.0,8400.0,Não,Sim,,1.0
+398,2022-04-02,Candidato_398,Masculino,RJ,,Graduação,Educação,5.1,1.0,Nenhum,7900.0,7100.0,Não,Não,,0.0
+399,2022-12-20,Candidato_399,Outro,MG,47.0,Ensino Médio,Engenharia,7.0,0.0,Inglês,5800.0,6400.0,Não,Sim,Não,0.0
+400,2023-12-28,Candidato_400,Outro,PE,41.0,Doutorado,Recursos Humanos,3.8,1.0,Alemão,8100.0,9600.0,Não,Sim,Não,0.0
+401,2022-02-20,Candidato_401,Outro,DF,20.0,Graduação,Educação,4.7,3.0,Espanhol,5700.0,5900.0,Não,,Não,0.0
+402,2023-10-27,Candidato_402,Feminino,PR,28.0,Graduação,Marketing,5.7,4.0,Francês,,8600.0,Sim,Não,Não,0.0
+403,2023-11-29,Candidato_403,Feminino,MG,62.0,Ensino Médio,Educação,7.4,,Espanhol,4500.0,3600.0,Não,Não,Não,0.0
+404,2023-07-29,Candidato_404,Outro,SC,21.0,Tecnólogo,Saúde,6.6,0.0,Nenhum,,5800.0,Não,Não,Não,1.0
+405,2022-07-09,Candidato_405,Outro,RS,43.0,Mestrado,,6.6,2.0,Inglês,9400.0,9800.0,Sim,Não,Não,1.0
+406,2022-05-05,Candidato_406,Feminino,CE,44.0,Tecnólogo,Educação,,1.0,,6400.0,6100.0,Não,Não,Não,0.0
+407,2022-05-30,Candidato_407,Feminino,BA,63.0,Ensino Médio,Financeiro,5.8,3.0,Francês,,10600.0,Sim,Sim,Não,0.0
+408,2022-11-10,Candidato_408,Masculino,MG,,,Recursos Humanos,3.6,2.0,Francês,13200.0,12200.0,Sim,Sim,Não,1.0
+409,2023-07-24,Candidato_409,Masculino,RJ,44.0,Tecnólogo,Marketing,6.7,2.0,,6900.0,6700.0,Não,Sim,Não,0.0
+410,2022-12-08,Candidato_410,,RJ,59.0,,Financeiro,7.3,2.0,Francês,8200.0,,Sim,Não,Não,0.0
+411,2022-11-01,Candidato_411,Outro,MG,23.0,,Educação,6.1,0.0,,8000.0,7300.0,Não,Sim,Não,1.0
+412,2023-11-23,Candidato_412,Outro,RJ,32.0,Tecnólogo,Marketing,4.3,3.0,Francês,7500.0,8700.0,Não,Sim,Não,0.0
+413,2023-11-13,Candidato_413,Outro,RS,47.0,Mestrado,Saúde,4.6,2.0,Francês,8600.0,8500.0,Sim,Sim,Não,0.0
+414,2022-02-23,Candidato_414,Outro,RJ,59.0,Mestrado,Marketing,8.6,0.0,Espanhol,,6300.0,Sim,Sim,Não,0.0
+415,2023-03-20,Candidato_415,,DF,54.0,Mestrado,Engenharia,4.3,2.0,Francês,5700.0,6500.0,Sim,Sim,Não,0.0
+416,2023-09-05,Candidato_416,Feminino,CE,54.0,Tecnólogo,Financeiro,7.1,2.0,Nenhum,3900.0,3600.0,Não,Sim,,1.0
+417,2022-09-21,Candidato_417,Outro,RJ,59.0,Doutorado,Marketing,5.7,2.0,Nenhum,6300.0,7100.0,Não,Não,Não,0.0
+418,2022-02-22,Candidato_418,Masculino,CE,54.0,Tecnólogo,Recursos Humanos,4.3,2.0,Alemão,,7500.0,Sim,Não,Não,1.0
+419,2023-07-26,Candidato_419,Outro,,52.0,Ensino Médio,Saúde,2.3,3.0,Nenhum,5100.0,4500.0,Não,Não,Não,0.0
+420,2023-09-12,Candidato_420,Feminino,SP,40.0,Tecnólogo,,5.4,1.0,Inglês,7500.0,8900.0,Não,Sim,Não,0.0
+421,2022-01-05,Candidato_421,,,23.0,Mestrado,,5.2,2.0,Inglês,6800.0,7700.0,Sim,Não,Não,0.0
+422,2022-04-13,Candidato_422,Feminino,,21.0,Graduação,Marketing,,2.0,Inglês,5800.0,5500.0,,Não,Não,0.0
+423,2022-07-15,Candidato_423,Feminino,PR,35.0,Tecnólogo,Educação,3.3,3.0,,3300.0,3500.0,,Sim,Não,0.0
+424,2022-12-16,,Masculino,RS,26.0,Tecnólogo,Administração,9.6,2.0,Nenhum,,11400.0,Sim,Não,Não,0.0
+425,2022-02-16,Candidato_425,Masculino,MG,46.0,Mestrado,Engenharia,5.8,4.0,Inglês,8000.0,7100.0,Sim,Sim,Não,
+426,2023-10-18,Candidato_426,Masculino,MG,30.0,Graduação,Financeiro,5.8,2.0,Alemão,12300.0,10100.0,Sim,Não,Não,1.0
+427,2022-09-26,Candidato_427,Masculino,CE,,Graduação,Engenharia,3.8,1.0,Espanhol,9200.0,9300.0,Sim,Sim,Não,0.0
+428,2023-01-05,Candidato_428,Masculino,PR,34.0,Ensino Médio,Administração,5.6,1.0,Alemão,9700.0,8300.0,Sim,Sim,Não,0.0
+429,2023-09-28,Candidato_429,Masculino,CE,62.0,Tecnólogo,Administração,5.9,0.0,Nenhum,3500.0,3100.0,,Não,Não,
+430,2022-04-16,Candidato_430,Masculino,BA,49.0,Graduação,Financeiro,6.9,2.0,Francês,3500.0,4000.0,Sim,Sim,Não,0.0
+431,2023-11-01,,Outro,RJ,39.0,Graduação,Marketing,3.0,4.0,Alemão,7100.0,5700.0,Não,Não,Não,0.0
+432,2023-10-21,Candidato_432,Feminino,PE,21.0,Doutorado,Administração,7.8,1.0,Francês,4700.0,,Não,Sim,Não,1.0
+433,2023-10-19,Candidato_433,Masculino,BA,22.0,Doutorado,Tecnologia,5.7,0.0,Espanhol,5600.0,5600.0,Sim,Não,Não,0.0
+434,2022-04-30,Candidato_434,Outro,RJ,54.0,Graduação,Educação,6.2,2.0,,12100.0,12400.0,,Não,Não,0.0
+435,2023-08-27,Candidato_435,Outro,RS,58.0,Ensino Médio,Educação,4.6,0.0,,9400.0,10000.0,Não,Sim,,0.0
+436,2022-02-27,Candidato_436,Outro,CE,30.0,Graduação,Saúde,3.1,0.0,Espanhol,5100.0,5000.0,Não,Não,Não,
+437,2022-12-12,,Feminino,,51.0,Mestrado,Recursos Humanos,5.1,,Espanhol,,1900.0,,Não,Não,0.0
+438,2023-04-19,Candidato_438,Masculino,RS,62.0,,Administração,5.4,2.0,Inglês,5000.0,4200.0,Não,Não,Não,0.0
+439,2022-04-27,Candidato_439,Outro,RJ,39.0,Ensino Médio,Administração,2.2,3.0,Nenhum,5900.0,6500.0,Não,Sim,Não,
+440,2022-05-07,,Feminino,PR,40.0,Mestrado,Tecnologia,,1.0,Alemão,6400.0,5700.0,,Sim,Não,0.0
+441,2023-01-28,Candidato_441,Feminino,RJ,20.0,Ensino Médio,Engenharia,7.0,,Alemão,4400.0,3600.0,Sim,Não,Não,0.0
+442,2023-10-03,Candidato_442,,SC,59.0,Mestrado,Engenharia,,2.0,Espanhol,,11100.0,,Não,Não,0.0
+443,2022-02-27,Candidato_443,Outro,MG,51.0,Tecnólogo,Educação,3.0,4.0,Espanhol,5600.0,6700.0,,Sim,Não,1.0
+444,2023-09-26,Candidato_444,,MG,49.0,,Educação,4.4,3.0,Nenhum,8300.0,7900.0,Sim,Sim,Não,1.0
+445,2023-05-28,,,BA,62.0,Doutorado,Marketing,5.0,,Espanhol,7100.0,5800.0,Não,Não,Não,1.0
+446,2022-04-06,Candidato_446,Outro,MG,38.0,Mestrado,,4.5,4.0,Francês,,9700.0,Não,Sim,Não,0.0
+447,2023-09-30,Candidato_447,Masculino,RJ,,Doutorado,Recursos Humanos,4.9,,Francês,6500.0,7400.0,Não,,Não,1.0
+448,2022-04-28,Candidato_448,Masculino,DF,61.0,Mestrado,,5.4,3.0,Francês,5200.0,4400.0,Não,Não,Sim,
+449,2023-07-14,Candidato_449,Masculino,CE,38.0,Doutorado,Financeiro,2.3,,,5800.0,5000.0,Não,Sim,Não,0.0
+450,2023-08-24,Candidato_450,Feminino,RJ,,Tecnólogo,Financeiro,2.5,1.0,Nenhum,,,Sim,Sim,Não,0.0
+451,2023-05-03,Candidato_451,,RJ,28.0,Ensino Médio,Saúde,-0.4,2.0,Alemão,11100.0,13000.0,Sim,Sim,Não,0.0
+452,2022-08-25,Candidato_452,Outro,PE,56.0,Doutorado,Financeiro,6.9,3.0,Francês,7200.0,8000.0,Não,Não,Não,1.0
+453,2022-09-29,Candidato_453,Masculino,CE,21.0,Mestrado,Saúde,5.0,1.0,Espanhol,,6200.0,Sim,Sim,Não,0.0
+454,2022-07-08,Candidato_454,Outro,SC,18.0,Mestrado,Financeiro,7.1,,Francês,8800.0,8500.0,Não,Não,Não,0.0
+455,2023-12-05,Candidato_455,,MG,45.0,Tecnólogo,Tecnologia,2.7,2.0,Nenhum,7000.0,7300.0,Não,Sim,Não,0.0
+456,2023-03-23,Candidato_456,Outro,CE,41.0,Mestrado,Saúde,,,Espanhol,9200.0,7900.0,,Sim,Não,0.0
+457,2023-08-04,Candidato_457,Outro,,52.0,Graduação,Engenharia,5.4,,Francês,6300.0,5600.0,Não,,Não,0.0
+458,2022-09-04,Candidato_458,Masculino,BA,30.0,Ensino Médio,Saúde,3.9,0.0,Alemão,6100.0,5600.0,Não,Não,Não,0.0
+459,2022-03-17,,Masculino,CE,64.0,Doutorado,Saúde,1.9,5.0,Espanhol,5000.0,5000.0,Não,,,0.0
+460,2022-06-03,Candidato_460,Outro,MG,51.0,Ensino Médio,Tecnologia,8.5,2.0,Espanhol,10700.0,10700.0,Não,Não,Não,0.0
+461,2023-10-18,Candidato_461,Masculino,SC,,Tecnólogo,Tecnologia,7.8,2.0,Alemão,6900.0,7800.0,Não,Sim,Não,1.0
+462,2023-03-11,Candidato_462,Feminino,SP,53.0,Doutorado,Saúde,4.2,0.0,Espanhol,4700.0,5200.0,Não,Não,Não,1.0
+463,2022-03-27,Candidato_463,Feminino,RS,34.0,Doutorado,Recursos Humanos,6.0,4.0,Francês,7400.0,8600.0,Sim,Não,Não,1.0
+464,2023-11-28,Candidato_464,Masculino,RS,52.0,Graduação,Administração,,1.0,Espanhol,5700.0,6500.0,Não,Não,Não,1.0
+465,2022-10-12,Candidato_465,Feminino,SC,35.0,Tecnólogo,Recursos Humanos,3.0,1.0,Francês,,5600.0,Sim,Sim,Não,0.0
+466,2022-08-08,,Masculino,PE,57.0,Mestrado,Tecnologia,8.7,5.0,,7600.0,7100.0,Sim,Sim,Não,1.0
+467,2022-03-10,,Outro,SP,39.0,,Recursos Humanos,1.7,0.0,Inglês,10000.0,10000.0,Não,Não,Não,0.0
+468,2022-02-16,Candidato_468,Outro,BA,41.0,Graduação,Recursos Humanos,4.4,2.0,Alemão,7200.0,,Sim,Não,Não,1.0
+469,2022-04-04,Candidato_469,Feminino,SC,36.0,Ensino Médio,Marketing,5.2,1.0,Francês,5600.0,6500.0,Não,Não,Não,0.0
+470,2023-03-29,Candidato_470,Masculino,RS,54.0,Ensino Médio,Marketing,8.3,3.0,Nenhum,6000.0,4900.0,Não,Não,,1.0
+471,2022-07-23,,Masculino,RS,56.0,Ensino Médio,Engenharia,,2.0,Alemão,8300.0,7700.0,Não,Sim,,0.0
+472,2022-08-06,Candidato_472,Feminino,RS,38.0,Graduação,Financeiro,,5.0,Nenhum,3100.0,3200.0,Não,Não,Não,
+473,2023-04-19,Candidato_473,Outro,PR,25.0,Mestrado,Saúde,,3.0,Nenhum,4900.0,4900.0,Sim,Sim,Não,0.0
+474,2023-03-08,Candidato_474,Feminino,SC,45.0,Doutorado,,5.0,2.0,Francês,7400.0,7900.0,Sim,Não,,0.0
+475,2022-12-07,Candidato_475,Outro,RJ,22.0,Ensino Médio,Engenharia,4.5,2.0,Francês,3600.0,,Não,Não,,1.0
+476,2023-07-05,Candidato_476,Masculino,BA,34.0,Mestrado,Saúde,6.2,1.0,Inglês,6400.0,5700.0,Sim,Sim,Não,0.0
+477,2023-09-04,Candidato_477,Outro,RS,54.0,Tecnólogo,Recursos Humanos,2.2,,Espanhol,6000.0,,Sim,Não,Não,0.0
+478,2022-10-16,Candidato_478,Feminino,MG,53.0,Ensino Médio,Tecnologia,4.2,1.0,Alemão,8800.0,10200.0,Sim,Não,Não,1.0
+479,2022-09-11,Candidato_479,Masculino,SC,36.0,Doutorado,Marketing,6.0,3.0,Francês,6500.0,,Não,Não,Não,0.0
+480,2022-12-23,Candidato_480,Feminino,,44.0,Tecnólogo,,6.4,1.0,Alemão,9400.0,8600.0,Sim,Não,Não,0.0
+481,2022-01-23,Candidato_481,Feminino,SC,51.0,Tecnólogo,Administração,5.3,1.0,Nenhum,7200.0,6900.0,Sim,Sim,Não,0.0
+482,2023-06-06,Candidato_482,Outro,BA,28.0,,Recursos Humanos,4.4,0.0,Espanhol,10600.0,9100.0,,Não,Não,0.0
+483,2022-04-10,Candidato_483,Feminino,PR,62.0,Ensino Médio,Educação,,2.0,Inglês,4200.0,4200.0,Não,Não,Sim,1.0
+484,2022-06-29,Candidato_484,Outro,BA,64.0,Graduação,Marketing,6.5,3.0,Alemão,,10900.0,Sim,Sim,,1.0
+485,2022-08-11,Candidato_485,Masculino,SC,29.0,,Recursos Humanos,5.1,4.0,Espanhol,6200.0,6900.0,,Não,Não,1.0
+486,2023-10-21,Candidato_486,,RJ,38.0,Doutorado,Financeiro,2.9,2.0,Inglês,9900.0,10700.0,,Sim,Não,0.0
+487,2023-03-18,Candidato_487,Masculino,BA,28.0,Doutorado,Financeiro,2.5,3.0,Alemão,9400.0,8100.0,Sim,Não,Não,0.0
+488,2023-08-31,Candidato_488,Outro,PR,56.0,,Educação,2.0,3.0,Espanhol,1300.0,1300.0,Não,Não,Não,
+489,2022-11-21,Candidato_489,Feminino,PR,45.0,Mestrado,Tecnologia,7.9,2.0,Francês,8000.0,6500.0,Não,Não,Não,
+490,2023-05-31,Candidato_490,Outro,BA,22.0,Graduação,Recursos Humanos,6.6,3.0,Alemão,9000.0,7300.0,Não,Sim,Não,0.0
+491,2022-01-16,Candidato_491,,DF,34.0,Ensino Médio,Saúde,4.8,0.0,Espanhol,9700.0,9500.0,Não,Sim,Não,
+492,2022-12-02,Candidato_492,Masculino,SC,37.0,,,,2.0,Inglês,,4100.0,Não,Não,Não,0.0
+493,2022-09-15,Candidato_493,Feminino,DF,58.0,Mestrado,Tecnologia,3.9,,Espanhol,8200.0,,Não,Sim,Não,0.0
+494,2023-05-12,Candidato_494,Outro,PE,63.0,Doutorado,Recursos Humanos,7.2,4.0,Francês,7400.0,8100.0,Sim,Não,Não,1.0
+495,2022-06-09,Candidato_495,Feminino,SC,29.0,Graduação,Educação,8.8,,Alemão,7900.0,9100.0,Não,Sim,Não,0.0
+496,2023-04-20,,Outro,BA,23.0,Ensino Médio,Tecnologia,3.8,2.0,Alemão,9000.0,9900.0,,Não,,0.0
+497,2023-10-26,Candidato_497,Outro,SP,34.0,,Marketing,7.3,2.0,Alemão,9300.0,7600.0,Sim,Sim,Não,0.0
+498,2023-11-21,Candidato_498,Feminino,BA,36.0,Doutorado,Administração,5.1,2.0,Francês,5700.0,5400.0,Não,Não,,1.0
+499,2023-11-06,Candidato_499,Outro,DF,,Mestrado,Tecnologia,4.6,1.0,Inglês,7500.0,6800.0,Sim,Sim,Não,0.0
+500,2023-01-15,Candidato_500,Feminino,RJ,61.0,Graduação,Recursos Humanos,8.0,2.0,Alemão,7100.0,6800.0,Sim,Sim,Não,0.0
+501,2023-06-29,Candidato_501,Outro,BA,61.0,Mestrado,Marketing,5.0,3.0,Inglês,6500.0,5600.0,Sim,Sim,Não,0.0
+502,2023-11-22,Candidato_502,Masculino,BA,49.0,Mestrado,Administração,5.6,1.0,Espanhol,6700.0,5600.0,Não,Sim,Não,0.0
+503,2023-03-03,Candidato_503,,,23.0,Graduação,Financeiro,5.5,3.0,Inglês,7400.0,7500.0,,Não,Não,1.0
+504,2023-09-05,,Outro,BA,53.0,Graduação,Saúde,1.7,3.0,Inglês,5800.0,6300.0,Sim,Não,Não,0.0
+505,2022-09-25,Candidato_505,,,55.0,Ensino Médio,Educação,5.6,1.0,,8800.0,9500.0,Não,Sim,Não,
+506,2023-07-31,Candidato_506,Masculino,SP,28.0,Ensino Médio,Recursos Humanos,3.9,1.0,,9500.0,9300.0,Sim,Não,Não,0.0
+507,2023-02-21,Candidato_507,Feminino,MG,50.0,Graduação,Recursos Humanos,2.2,,Nenhum,5400.0,5400.0,Sim,Sim,Não,1.0
+508,2022-06-17,Candidato_508,Outro,SP,41.0,Tecnólogo,Financeiro,4.0,2.0,Francês,9600.0,9700.0,Sim,Não,Não,1.0
+509,2022-02-12,Candidato_509,Masculino,,40.0,Ensino Médio,Saúde,3.9,1.0,Francês,5400.0,5800.0,Não,Sim,Não,0.0
+510,2023-07-10,Candidato_510,Outro,,32.0,Tecnólogo,Financeiro,7.1,1.0,Nenhum,8800.0,7200.0,Sim,Não,,0.0
+511,2022-10-12,Candidato_511,Feminino,SC,44.0,,Engenharia,2.9,0.0,Espanhol,9600.0,10400.0,Sim,Não,Não,0.0
+512,2023-02-01,Candidato_512,Outro,,28.0,Ensino Médio,Financeiro,3.4,2.0,Alemão,6800.0,7000.0,Não,Sim,Não,0.0
+513,2022-01-12,,Outro,DF,34.0,Mestrado,Marketing,5.5,3.0,Alemão,5400.0,4700.0,Não,Sim,Não,0.0
+514,2023-08-30,Candidato_514,Outro,RS,31.0,Graduação,Administração,2.3,2.0,Espanhol,5800.0,4800.0,Não,Sim,,0.0
+515,2022-10-29,,Outro,RJ,44.0,Doutorado,Recursos Humanos,3.7,1.0,Espanhol,7700.0,6500.0,Sim,,Não,1.0
+516,2022-09-10,,Masculino,RS,35.0,Tecnólogo,Financeiro,1.7,1.0,Nenhum,10900.0,11000.0,Não,Sim,,0.0
+517,2023-05-14,,Masculino,RJ,45.0,Graduação,Recursos Humanos,6.8,4.0,,3600.0,4000.0,Não,Não,Não,
+518,2022-02-04,Candidato_518,Feminino,PE,64.0,,Tecnologia,4.4,1.0,Espanhol,7200.0,6700.0,Não,Sim,Sim,0.0
+519,2023-12-28,Candidato_519,Masculino,MG,64.0,Ensino Médio,Saúde,5.0,1.0,Francês,6800.0,6500.0,Sim,Não,Não,0.0
+520,2022-03-31,Candidato_520,,CE,21.0,Ensino Médio,Financeiro,6.8,3.0,Inglês,,7200.0,Não,Sim,Não,1.0
+521,2023-08-28,Candidato_521,Feminino,RS,24.0,Ensino Médio,Administração,3.6,1.0,Alemão,6800.0,6000.0,Não,Não,Não,0.0
+522,2023-08-25,,Masculino,PR,62.0,,Marketing,4.4,1.0,,5900.0,5000.0,Não,Não,,0.0
+523,2023-02-22,Candidato_523,,DF,52.0,Ensino Médio,Engenharia,2.9,3.0,Alemão,,8900.0,Não,Sim,Não,
+524,2022-04-25,Candidato_524,Feminino,BA,26.0,Graduação,Recursos Humanos,2.9,2.0,Nenhum,9700.0,,Não,,Não,1.0
+525,2023-09-09,Candidato_525,Feminino,DF,25.0,Ensino Médio,Saúde,3.2,2.0,Inglês,7200.0,7600.0,Sim,Não,Não,0.0
+526,2022-07-15,,Feminino,SP,62.0,Mestrado,Educação,4.0,2.0,Alemão,6700.0,6500.0,Sim,Não,Não,0.0
+527,2023-05-16,Candidato_527,Outro,CE,34.0,Ensino Médio,,4.2,2.0,Inglês,6000.0,7100.0,Não,Sim,Não,0.0
+528,2023-09-18,Candidato_528,Outro,SP,,Doutorado,Educação,5.6,3.0,Nenhum,7200.0,7900.0,Não,Não,Não,0.0
+529,2023-05-08,Candidato_529,Feminino,PE,50.0,Mestrado,Administração,3.2,3.0,Espanhol,10700.0,8800.0,Não,,Não,0.0
+530,2022-03-16,Candidato_530,Feminino,CE,49.0,Graduação,,5.6,5.0,Alemão,6800.0,7500.0,Sim,Não,Não,0.0
+531,2023-02-17,Candidato_531,Feminino,CE,25.0,Graduação,Marketing,6.0,1.0,Inglês,5300.0,,Sim,Não,Não,0.0
+532,2023-01-11,Candidato_532,Outro,SP,36.0,Tecnólogo,Marketing,4.1,3.0,Alemão,6200.0,6600.0,Sim,Não,Não,1.0
+533,2023-02-24,Candidato_533,Outro,RJ,55.0,,Marketing,3.4,1.0,Alemão,8500.0,7500.0,Sim,Não,Não,1.0
+534,2023-12-30,Candidato_534,Masculino,SP,20.0,Tecnólogo,Financeiro,5.2,0.0,Alemão,5600.0,,Não,Sim,Não,0.0
+535,2022-10-04,Candidato_535,Masculino,DF,22.0,Mestrado,,4.6,2.0,Francês,,6400.0,,Sim,Não,0.0
+536,2023-11-07,Candidato_536,Feminino,RJ,,Mestrado,Administração,5.4,3.0,Inglês,7900.0,9100.0,Não,Sim,Não,0.0
+537,2023-01-29,Candidato_537,Outro,DF,64.0,Doutorado,Saúde,8.1,1.0,Inglês,5700.0,5300.0,,Sim,Não,0.0
+538,2023-04-02,Candidato_538,Outro,PE,63.0,Tecnólogo,,5.1,4.0,Alemão,3500.0,,Sim,Não,Não,0.0
+539,2022-07-11,Candidato_539,Outro,BA,48.0,Doutorado,Marketing,3.7,1.0,,4900.0,4500.0,Não,Sim,,0.0
+540,2023-11-20,Candidato_540,,SC,,Mestrado,,3.2,0.0,Alemão,5300.0,6200.0,Sim,,Não,
+541,2022-04-09,Candidato_541,Masculino,,49.0,Graduação,Marketing,3.3,2.0,Francês,6500.0,,Sim,Não,Não,
+542,2023-07-02,Candidato_542,Feminino,PE,39.0,Mestrado,Educação,,0.0,Nenhum,7100.0,6400.0,Não,Sim,Não,1.0
+543,2022-04-06,Candidato_543,Masculino,PR,46.0,Doutorado,Educação,6.9,4.0,Francês,8600.0,10100.0,Sim,Sim,Não,1.0
+544,2023-10-26,Candidato_544,Masculino,PE,39.0,Tecnólogo,,0.5,1.0,Espanhol,4500.0,4200.0,Sim,Não,Não,0.0
+545,2023-10-25,Candidato_545,Feminino,SP,60.0,Tecnólogo,Administração,6.0,2.0,Alemão,8400.0,,,Sim,Não,0.0
+546,2022-07-09,Candidato_546,Masculino,,20.0,Doutorado,Marketing,3.3,1.0,Inglês,6300.0,6900.0,,Sim,Não,0.0
+547,2022-02-06,Candidato_547,Masculino,SC,27.0,,Educação,4.0,1.0,Alemão,3400.0,2800.0,Sim,Não,Não,1.0
+548,2023-01-04,Candidato_548,Outro,,59.0,,Tecnologia,3.2,1.0,Espanhol,7000.0,8300.0,Não,Não,Não,0.0
+549,2023-11-26,Candidato_549,Masculino,MG,,Graduação,Tecnologia,,2.0,Inglês,9600.0,9000.0,Sim,Não,Não,0.0
+550,2023-06-09,,,BA,33.0,Graduação,Marketing,5.0,1.0,Francês,8800.0,7700.0,Sim,Não,Não,0.0
+551,2022-10-06,Candidato_551,Feminino,SP,29.0,Graduação,Financeiro,6.6,2.0,Nenhum,6800.0,7800.0,Não,Não,Não,0.0
+552,2022-08-05,Candidato_552,Masculino,SC,19.0,Tecnólogo,,,3.0,Nenhum,,10100.0,Sim,Não,Não,0.0
+553,2022-09-30,Candidato_553,Outro,BA,,Tecnólogo,,5.3,4.0,Alemão,7400.0,6200.0,Não,Sim,,0.0
+554,2022-03-03,Candidato_554,Outro,PE,41.0,Mestrado,Administração,2.6,2.0,Francês,9000.0,,Sim,Sim,Não,0.0
+555,2023-08-19,Candidato_555,Masculino,PE,52.0,Mestrado,Administração,4.6,2.0,Espanhol,,4000.0,Sim,Sim,Não,0.0
+556,2023-12-30,Candidato_556,Masculino,,47.0,Graduação,Financeiro,3.5,,,4500.0,3700.0,Não,Não,Não,0.0
+557,2022-12-08,Candidato_557,Feminino,SC,47.0,Ensino Médio,Recursos Humanos,4.0,3.0,Francês,8500.0,9900.0,Não,Não,Não,
+558,2023-02-01,Candidato_558,Masculino,SP,64.0,Mestrado,Administração,4.8,2.0,Alemão,10100.0,11100.0,Sim,Sim,Não,1.0
+559,2023-11-30,Candidato_559,Outro,MG,52.0,Mestrado,Recursos Humanos,4.7,3.0,Inglês,7800.0,7300.0,Não,Sim,Não,0.0
+560,2022-01-19,Candidato_560,Masculino,,36.0,Tecnólogo,Engenharia,5.8,1.0,Alemão,6000.0,5700.0,Sim,Sim,Não,0.0
+561,2022-06-26,Candidato_561,,MG,25.0,Ensino Médio,Marketing,6.1,4.0,Alemão,5300.0,5300.0,Não,Não,Sim,0.0
+562,2023-09-04,,Feminino,PE,43.0,Graduação,,4.7,0.0,Francês,6400.0,6000.0,Sim,Sim,Não,
+563,2023-01-31,Candidato_563,,,57.0,Mestrado,Tecnologia,5.8,5.0,Nenhum,,,Sim,Sim,Não,0.0
+564,2023-03-21,Candidato_564,Feminino,BA,24.0,Ensino Médio,Educação,3.9,2.0,Francês,6300.0,,Sim,Sim,Não,0.0
+565,2022-08-21,Candidato_565,Feminino,RS,47.0,Ensino Médio,Recursos Humanos,,1.0,Inglês,9100.0,9400.0,Sim,Não,Não,0.0
+566,2022-03-17,Candidato_566,Masculino,BA,24.0,Graduação,Recursos Humanos,3.9,1.0,Francês,8300.0,8100.0,,Sim,Não,0.0
+567,2022-09-22,Candidato_567,,PE,20.0,Ensino Médio,Saúde,7.4,1.0,Espanhol,10400.0,9200.0,Não,,Não,0.0
+568,2023-03-31,Candidato_568,Masculino,DF,18.0,Ensino Médio,Financeiro,2.0,,Alemão,7400.0,,Não,Não,Não,0.0
+569,2023-12-19,,Masculino,RS,53.0,Ensino Médio,Saúde,4.2,1.0,Nenhum,6900.0,7400.0,Sim,Não,Não,
+570,2023-01-19,Candidato_570,Feminino,RS,42.0,Mestrado,Administração,4.3,4.0,Inglês,9200.0,9900.0,Sim,Não,Não,1.0
+571,2023-07-18,Candidato_571,Outro,MG,54.0,Graduação,,,3.0,Alemão,,4100.0,Não,Não,Não,1.0
+572,2023-05-21,Candidato_572,Masculino,SC,,,Saúde,6.7,0.0,Francês,6100.0,7100.0,Não,Não,Não,0.0
+573,2023-01-02,Candidato_573,Outro,MG,,,Engenharia,2.5,2.0,Espanhol,3600.0,3400.0,Não,Sim,,1.0
+574,2022-05-24,Candidato_574,Masculino,MG,54.0,Mestrado,Recursos Humanos,2.8,0.0,Francês,4500.0,,Não,Sim,Não,0.0
+575,2022-03-10,Candidato_575,Masculino,DF,30.0,Graduação,Tecnologia,2.2,0.0,Alemão,10800.0,11900.0,Não,Não,Não,0.0
+576,2022-04-09,Candidato_576,Outro,BA,57.0,Tecnólogo,Financeiro,7.6,2.0,Inglês,8400.0,8900.0,Sim,Não,Não,1.0
+577,2023-01-31,Candidato_577,Feminino,BA,25.0,Mestrado,Tecnologia,,3.0,Nenhum,4300.0,4100.0,Sim,Não,Não,0.0
+578,2022-01-25,Candidato_578,Masculino,PR,22.0,Graduação,Engenharia,2.8,2.0,,9400.0,9800.0,Não,Não,Sim,0.0
+579,2023-04-14,Candidato_579,Masculino,PE,26.0,Ensino Médio,Engenharia,4.1,2.0,Inglês,5600.0,4600.0,Não,Sim,Não,0.0
+580,2023-04-29,Candidato_580,Masculino,,,Graduação,Saúde,7.4,1.0,Alemão,8300.0,9200.0,Não,Sim,Não,0.0
+581,2023-07-19,Candidato_581,Outro,PR,53.0,Graduação,Marketing,4.4,,Espanhol,8300.0,7000.0,Não,Não,Não,1.0
+582,2022-05-31,Candidato_582,Feminino,SP,52.0,Graduação,Recursos Humanos,4.3,,Francês,10300.0,9900.0,Não,Não,Não,0.0
+583,2022-05-24,Candidato_583,Outro,PE,19.0,Tecnólogo,Educação,3.4,3.0,Nenhum,5900.0,5000.0,Não,Não,Não,0.0
+584,2023-07-23,Candidato_584,,PE,57.0,Graduação,Recursos Humanos,3.0,3.0,Inglês,5500.0,6200.0,Não,Não,Não,0.0
+585,2022-02-08,Candidato_585,Feminino,CE,40.0,Tecnólogo,,7.4,3.0,Nenhum,1600.0,1600.0,Não,Sim,Não,1.0
+586,2022-04-19,Candidato_586,,CE,26.0,Ensino Médio,Saúde,,3.0,Nenhum,6800.0,7300.0,Não,Não,Não,0.0
+587,2023-11-24,Candidato_587,Feminino,RJ,51.0,Tecnólogo,,3.0,0.0,Nenhum,,9100.0,Sim,Não,Não,0.0
+588,2022-02-11,Candidato_588,Masculino,RJ,63.0,Ensino Médio,Engenharia,7.8,1.0,Inglês,8700.0,9900.0,Não,Sim,Não,1.0
+589,2022-07-05,Candidato_589,Feminino,MG,31.0,,Tecnologia,4.0,2.0,Inglês,9500.0,8100.0,Não,,Não,0.0
+590,2023-02-02,Candidato_590,Masculino,SP,,Tecnólogo,Educação,6.1,1.0,Nenhum,7600.0,,Sim,Sim,Sim,0.0
+591,2022-08-11,Candidato_591,Outro,,47.0,Mestrado,,7.8,4.0,Francês,8000.0,8200.0,Sim,Não,Sim,1.0
+592,2023-09-26,Candidato_592,Outro,RS,48.0,Doutorado,Financeiro,4.7,0.0,Alemão,,5800.0,Sim,,Não,0.0
+593,2022-05-13,Candidato_593,Masculino,CE,55.0,Graduação,Saúde,4.3,1.0,,8400.0,7400.0,Não,Sim,Não,1.0
+594,2022-06-12,,Outro,CE,28.0,Doutorado,Marketing,6.6,4.0,Espanhol,5100.0,4600.0,Não,Não,Não,0.0
+595,2022-08-03,Candidato_595,Feminino,CE,52.0,Graduação,Saúde,2.8,1.0,Nenhum,4200.0,3500.0,Não,Sim,Não,1.0
+596,2022-08-23,Candidato_596,Masculino,,25.0,Graduação,Administração,7.3,2.0,Inglês,5300.0,5000.0,Não,Sim,,1.0
+597,2023-10-20,Candidato_597,Outro,SC,20.0,Ensino Médio,Saúde,5.3,4.0,Alemão,7400.0,6000.0,,Sim,,0.0
+598,2023-08-11,Candidato_598,Masculino,RJ,31.0,Graduação,Engenharia,3.8,,Espanhol,4400.0,4500.0,Não,,Não,0.0
+599,2022-01-09,Candidato_599,Feminino,DF,30.0,Graduação,Tecnologia,3.8,3.0,Alemão,5700.0,5000.0,Não,Não,Não,1.0
+600,2022-03-15,Candidato_600,Feminino,BA,62.0,Tecnólogo,Tecnologia,2.2,1.0,,,5300.0,Sim,Sim,,0.0
+601,2023-05-07,Candidato_601,Outro,RS,49.0,Doutorado,Financeiro,3.9,2.0,,8600.0,10000.0,Não,Não,Não,0.0
+602,2022-09-10,Candidato_602,Feminino,PE,51.0,Tecnólogo,Educação,4.5,1.0,Nenhum,8300.0,8300.0,,Não,Não,0.0
+603,2022-08-18,Candidato_603,Masculino,RJ,62.0,Graduação,Engenharia,2.9,3.0,Nenhum,,,Não,Não,Não,1.0
+604,2023-06-03,Candidato_604,Feminino,PR,36.0,,Administração,4.9,3.0,Nenhum,7900.0,8200.0,Não,Sim,Não,1.0
+605,2022-06-23,Candidato_605,Masculino,BA,55.0,Tecnólogo,Engenharia,5.9,1.0,Francês,,7000.0,Sim,,Não,0.0
+606,2023-10-15,Candidato_606,Masculino,RJ,33.0,Tecnólogo,,4.6,3.0,Nenhum,6300.0,5200.0,Sim,Não,Não,
+607,2022-06-17,Candidato_607,Feminino,DF,19.0,Mestrado,Engenharia,6.3,3.0,Espanhol,5900.0,4800.0,Sim,Sim,Não,1.0
+608,2022-06-19,Candidato_608,Outro,SP,57.0,Graduação,Engenharia,,3.0,,10100.0,,Sim,Não,Não,1.0
+609,2023-01-28,Candidato_609,Feminino,PE,34.0,Ensino Médio,Financeiro,7.0,2.0,Nenhum,2000.0,2200.0,Não,,Não,0.0
+610,2023-09-26,Candidato_610,Masculino,RJ,51.0,Tecnólogo,Administração,5.2,0.0,Francês,5500.0,6200.0,Não,Não,Não,1.0
+611,2022-07-13,Candidato_611,Masculino,SC,59.0,Tecnólogo,Saúde,8.1,4.0,Espanhol,6600.0,7900.0,,Sim,Não,1.0
+612,2023-06-01,Candidato_612,Feminino,,33.0,Ensino Médio,Marketing,9.8,1.0,Nenhum,8100.0,,Sim,Sim,Não,0.0
+613,2022-01-29,Candidato_613,Outro,CE,55.0,Graduação,Financeiro,4.1,2.0,Inglês,9300.0,10200.0,Sim,,Não,
+614,2022-06-14,Candidato_614,Outro,PE,19.0,Mestrado,Marketing,4.1,2.0,Espanhol,10700.0,11500.0,Sim,Sim,Não,0.0
+615,2023-02-26,,Masculino,DF,19.0,Tecnólogo,Financeiro,4.5,,Alemão,,6400.0,Não,Não,Não,0.0
+616,2022-12-05,,Masculino,CE,43.0,Mestrado,,6.2,2.0,Alemão,7000.0,5900.0,Não,Sim,,0.0
+617,2023-10-10,Candidato_617,Outro,RJ,30.0,,,7.7,6.0,Espanhol,7700.0,7900.0,Sim,Sim,Não,1.0
+618,2023-05-11,Candidato_618,,PR,64.0,Graduação,Financeiro,3.7,0.0,Alemão,5900.0,6100.0,Sim,Sim,Não,1.0
+619,2022-12-31,Candidato_619,,RS,48.0,Doutorado,Educação,5.8,4.0,,4600.0,5400.0,Não,Não,Não,0.0
+620,2022-12-08,Candidato_620,Masculino,RS,51.0,Doutorado,Engenharia,4.7,,Inglês,6800.0,6600.0,Não,,Não,0.0
+621,2023-05-15,Candidato_621,Outro,BA,56.0,Doutorado,Tecnologia,6.2,,Espanhol,8500.0,9100.0,Não,,Não,0.0
+622,2023-10-19,Candidato_622,,MG,20.0,Graduação,Administração,8.0,2.0,Nenhum,6500.0,6700.0,Sim,Sim,Não,1.0
+623,2023-05-26,Candidato_623,Outro,SP,25.0,Graduação,Marketing,4.5,4.0,Nenhum,7800.0,6800.0,Sim,Não,Não,1.0
+624,2022-11-23,Candidato_624,Feminino,PE,40.0,Ensino Médio,Recursos Humanos,1.7,,Francês,3300.0,3400.0,Sim,Não,Não,0.0
+625,2022-08-05,Candidato_625,Feminino,BA,,Mestrado,Recursos Humanos,6.5,2.0,Alemão,7000.0,7100.0,Sim,Não,Não,0.0
+626,2022-10-28,Candidato_626,Feminino,MG,44.0,Mestrado,Financeiro,3.3,2.0,Alemão,6200.0,,,,Não,0.0
+627,2022-05-12,Candidato_627,Masculino,DF,46.0,,Engenharia,4.7,5.0,Espanhol,4400.0,4400.0,Não,Sim,Não,0.0
+628,2022-03-11,Candidato_628,,SC,56.0,Ensino Médio,Administração,6.6,1.0,Alemão,,7200.0,Não,Sim,Sim,0.0
+629,2022-09-09,Candidato_629,Outro,SC,56.0,,Educação,5.6,0.0,Nenhum,10700.0,10500.0,Sim,Não,Não,
+630,2023-02-19,Candidato_630,Feminino,SP,18.0,Ensino Médio,Administração,4.8,2.0,Inglês,9000.0,9400.0,Não,Sim,Não,0.0
+631,2023-03-21,Candidato_631,Masculino,CE,34.0,Tecnólogo,,3.8,1.0,Espanhol,9100.0,9100.0,Não,Sim,Não,0.0
+632,2022-07-01,Candidato_632,Masculino,RJ,,Mestrado,Educação,-0.8,0.0,,8400.0,,Não,Sim,Não,0.0
+633,2022-06-16,Candidato_633,Outro,,,Ensino Médio,Administração,6.4,1.0,Nenhum,,6900.0,Não,Sim,Sim,0.0
+634,2022-04-01,Candidato_634,Masculino,BA,30.0,Tecnólogo,,4.5,1.0,Francês,3400.0,3000.0,Não,Sim,Não,0.0
+635,2023-12-15,Candidato_635,Masculino,PE,38.0,,Financeiro,8.0,2.0,,6700.0,6200.0,Sim,Não,Não,0.0
+636,2023-06-15,Candidato_636,Feminino,PE,36.0,Tecnólogo,Financeiro,5.8,2.0,Inglês,8000.0,7700.0,Não,Sim,Sim,0.0
+637,2022-02-08,Candidato_637,Masculino,SC,36.0,Tecnólogo,Engenharia,3.9,2.0,,8100.0,8400.0,Não,Não,Não,1.0
+638,2022-05-06,Candidato_638,Feminino,SC,42.0,Doutorado,Engenharia,7.1,0.0,Alemão,9500.0,10900.0,Sim,Não,Não,0.0
+639,2023-03-27,Candidato_639,Outro,,39.0,Tecnólogo,Educação,7.3,3.0,Alemão,4900.0,4200.0,,Não,Não,1.0
+640,2022-06-22,Candidato_640,Masculino,PR,48.0,Doutorado,Saúde,4.6,1.0,Nenhum,,6600.0,Não,Sim,Não,0.0
+641,2023-10-15,Candidato_641,Outro,CE,,Doutorado,Tecnologia,7.4,1.0,Alemão,,4800.0,Não,Sim,,0.0
+642,2022-08-08,Candidato_642,Outro,PR,40.0,Tecnólogo,,3.9,3.0,Francês,6600.0,6400.0,Não,Sim,Não,0.0
+643,2023-09-30,Candidato_643,Masculino,,49.0,Mestrado,Administração,5.3,1.0,Nenhum,,7000.0,Não,Sim,Não,1.0
+644,2022-02-27,Candidato_644,Masculino,RJ,,Tecnólogo,Administração,6.1,0.0,Espanhol,8700.0,,Sim,Não,Não,0.0
+645,2023-10-22,Candidato_645,Outro,BA,27.0,Tecnólogo,Saúde,6.6,1.0,Francês,8500.0,9500.0,Não,Não,Sim,0.0
+646,2023-04-21,Candidato_646,Masculino,RS,53.0,Tecnólogo,Saúde,,2.0,Nenhum,7200.0,6000.0,Sim,Não,Não,1.0
+647,2023-04-01,Candidato_647,Feminino,,25.0,Mestrado,,4.3,2.0,Nenhum,2700.0,3200.0,Não,Sim,,0.0
+648,2022-12-27,Candidato_648,,MG,37.0,Graduação,Marketing,7.2,1.0,Inglês,7900.0,6700.0,Não,Não,Não,1.0
+649,2022-01-01,Candidato_649,Masculino,SC,49.0,Graduação,Marketing,4.8,1.0,Nenhum,6500.0,,Não,Não,Não,0.0
+650,2023-01-22,Candidato_650,Outro,PE,31.0,Doutorado,Educação,3.9,4.0,Francês,9800.0,,,Não,Não,0.0
+651,2022-12-14,Candidato_651,Masculino,PR,45.0,Doutorado,Marketing,3.9,3.0,Alemão,9300.0,10000.0,Não,Sim,Não,0.0
+652,2022-07-09,Candidato_652,Masculino,BA,63.0,Mestrado,,,0.0,Francês,5100.0,4600.0,Não,Não,Não,1.0
+653,2023-05-20,Candidato_653,Outro,SP,41.0,Ensino Médio,Financeiro,3.5,1.0,Espanhol,8200.0,7600.0,Sim,Não,Não,0.0
+654,2022-07-10,Candidato_654,Outro,PE,32.0,Graduação,Engenharia,7.6,3.0,Nenhum,8200.0,8400.0,Não,Sim,Não,0.0
+655,2023-05-23,Candidato_655,Feminino,MG,39.0,Doutorado,Recursos Humanos,2.7,3.0,Nenhum,8100.0,7100.0,Sim,,Não,0.0
+656,2023-01-04,Candidato_656,Outro,PR,47.0,Graduação,Educação,6.0,1.0,Nenhum,7800.0,6300.0,Não,Sim,Não,0.0
+657,2023-02-13,,,MG,21.0,Mestrado,Recursos Humanos,5.6,2.0,Nenhum,8300.0,8500.0,Sim,Não,Não,1.0
+658,2022-04-27,Candidato_658,Outro,SC,30.0,Mestrado,Administração,,3.0,Inglês,,,,Sim,Não,0.0
+659,2022-05-14,Candidato_659,Masculino,SC,,Ensino Médio,Tecnologia,,1.0,,5900.0,6300.0,Sim,,Não,
+660,2022-02-27,Candidato_660,Feminino,CE,25.0,Ensino Médio,Engenharia,3.1,0.0,Alemão,5200.0,4500.0,Não,Sim,Sim,0.0
+661,2023-07-10,Candidato_661,Feminino,BA,35.0,Mestrado,Administração,4.8,2.0,,8600.0,9800.0,Sim,Não,Não,0.0
+662,2023-11-16,Candidato_662,Feminino,PE,29.0,Doutorado,Administração,8.3,3.0,Espanhol,3200.0,,Sim,,Não,0.0
+663,2023-11-03,Candidato_663,,DF,48.0,Graduação,Educação,3.2,2.0,Alemão,8300.0,9600.0,Não,Sim,,0.0
+664,2022-06-22,Candidato_664,Masculino,,31.0,,Saúde,-0.2,3.0,Nenhum,,7800.0,Sim,Sim,Não,1.0
+665,2022-05-29,Candidato_665,Masculino,PE,51.0,Ensino Médio,Saúde,5.1,0.0,Inglês,2300.0,2300.0,Não,,Não,1.0
+666,2022-03-21,Candidato_666,Masculino,SP,35.0,Tecnólogo,Recursos Humanos,6.9,2.0,Espanhol,5700.0,6600.0,Não,Sim,Sim,
+667,2022-08-01,Candidato_667,Masculino,BA,51.0,Doutorado,Engenharia,3.0,,Alemão,10200.0,9400.0,Sim,Sim,Não,1.0
+668,2022-07-22,Candidato_668,Feminino,MG,28.0,Ensino Médio,Saúde,6.7,4.0,Espanhol,4100.0,3600.0,Sim,Sim,Não,
+669,2022-08-17,Candidato_669,Masculino,SP,,Tecnólogo,,2.9,2.0,Nenhum,7400.0,7200.0,Não,Sim,Não,
+670,2023-11-07,Candidato_670,Feminino,RS,29.0,Doutorado,Saúde,4.7,2.0,Francês,5000.0,,Sim,Sim,Não,0.0
+671,2022-08-15,,Masculino,PE,32.0,Graduação,Marketing,6.5,1.0,Espanhol,5600.0,5700.0,Sim,Sim,,0.0
+672,2023-10-21,Candidato_672,Outro,MG,48.0,Doutorado,Saúde,2.6,1.0,Espanhol,10800.0,9800.0,Sim,Sim,Não,0.0
+673,2023-06-16,Candidato_673,Feminino,DF,46.0,Ensino Médio,Administração,5.4,0.0,,,8200.0,Sim,Sim,Não,
+674,2023-03-17,Candidato_674,Outro,RJ,43.0,Mestrado,Recursos Humanos,7.4,2.0,,8000.0,8300.0,Não,Sim,Não,1.0
+675,2023-02-06,Candidato_675,Feminino,CE,35.0,Graduação,Educação,5.9,0.0,Espanhol,6800.0,5400.0,Não,Não,Não,0.0
+676,2022-02-16,Candidato_676,Outro,DF,49.0,Tecnólogo,Engenharia,,1.0,Nenhum,4000.0,4500.0,,Sim,Não,0.0
+677,2022-08-21,Candidato_677,Masculino,BA,,Ensino Médio,Tecnologia,8.0,3.0,Inglês,4600.0,4300.0,,Não,,1.0
+678,2022-11-01,Candidato_678,Masculino,SC,55.0,Mestrado,Saúde,6.3,0.0,Nenhum,9400.0,8700.0,Sim,Não,Não,0.0
+679,2023-06-10,Candidato_679,Masculino,,34.0,Doutorado,Financeiro,1.3,2.0,Inglês,7300.0,7000.0,Sim,Não,Não,0.0
+680,2022-05-23,Candidato_680,,CE,40.0,Mestrado,Financeiro,6.7,1.0,Inglês,5500.0,5800.0,Sim,Sim,Não,0.0
+681,2023-02-19,Candidato_681,Outro,,41.0,Ensino Médio,Recursos Humanos,3.9,2.0,Alemão,7000.0,6800.0,Sim,Não,Sim,0.0
+682,2023-05-28,Candidato_682,Masculino,RS,25.0,Ensino Médio,Administração,5.4,0.0,Nenhum,8300.0,8700.0,,Sim,Não,0.0
+683,2023-01-08,Candidato_683,Outro,RS,58.0,Mestrado,Tecnologia,7.0,2.0,Francês,7900.0,6800.0,Sim,Não,Não,1.0
+684,2023-07-20,Candidato_684,,PR,23.0,,Tecnologia,,1.0,Alemão,5500.0,6500.0,Não,Sim,Não,1.0
+685,2022-09-16,Candidato_685,Masculino,DF,22.0,Mestrado,Marketing,1.7,3.0,Inglês,3800.0,4100.0,Sim,Sim,Não,0.0
+686,2023-10-18,,Masculino,DF,61.0,Ensino Médio,Tecnologia,8.0,3.0,Francês,6200.0,,Não,Não,Não,1.0
+687,2023-04-16,Candidato_687,Outro,DF,46.0,Ensino Médio,,7.3,2.0,Espanhol,9200.0,10000.0,Não,Não,Não,
+688,2022-01-12,Candidato_688,Masculino,PR,,Tecnólogo,Educação,4.8,2.0,Espanhol,8700.0,9000.0,Não,Sim,Não,0.0
+689,2022-11-26,Candidato_689,Masculino,SP,28.0,Tecnólogo,Administração,6.7,,Alemão,7800.0,6600.0,Não,Não,,1.0
+690,2022-12-24,Candidato_690,Masculino,CE,18.0,Graduação,Administração,4.3,0.0,Francês,6700.0,,Sim,Sim,,0.0
+691,2023-02-12,Candidato_691,Feminino,RJ,60.0,Ensino Médio,,5.2,2.0,Nenhum,6000.0,4900.0,Não,Sim,Não,0.0
+692,2023-10-30,Candidato_692,Outro,BA,36.0,Tecnólogo,Saúde,4.7,2.0,Francês,6700.0,7500.0,Sim,Sim,Não,0.0
+693,2023-01-08,Candidato_693,Outro,CE,26.0,Mestrado,Saúde,4.3,1.0,Alemão,8600.0,8800.0,Não,Não,Não,1.0
+694,2022-01-08,Candidato_694,Feminino,RS,44.0,Doutorado,Financeiro,5.7,3.0,Nenhum,9000.0,8300.0,Não,Sim,Não,1.0
+695,2022-05-02,Candidato_695,Outro,MG,51.0,Mestrado,Financeiro,,1.0,Nenhum,,5500.0,Não,,Não,1.0
+696,2022-12-14,Candidato_696,Masculino,SC,61.0,Doutorado,Recursos Humanos,4.5,1.0,Espanhol,12100.0,12000.0,Sim,Sim,Não,0.0
+697,2023-11-07,Candidato_697,Outro,PR,21.0,Tecnólogo,Financeiro,,2.0,Francês,7200.0,7300.0,Não,Sim,Não,
+698,2022-03-31,Candidato_698,Masculino,PE,53.0,Graduação,Financeiro,8.7,,Nenhum,6300.0,6800.0,Sim,Não,Não,0.0
+699,2023-10-10,,,MG,35.0,Mestrado,Financeiro,2.7,1.0,Alemão,10000.0,11900.0,Sim,Não,Não,1.0
+700,2023-11-29,Candidato_700,Masculino,BA,32.0,Mestrado,Financeiro,6.0,0.0,Espanhol,2900.0,2800.0,Sim,,Sim,0.0
+701,2022-11-12,,Outro,,30.0,Mestrado,Educação,6.3,3.0,Nenhum,8000.0,7700.0,Não,Não,Não,0.0
+702,2022-06-27,Candidato_702,,RS,36.0,Doutorado,,1.2,2.0,,6900.0,6500.0,Não,Sim,Não,0.0
+703,2023-06-24,Candidato_703,Outro,RS,23.0,Tecnólogo,Recursos Humanos,5.8,2.0,Espanhol,,,Não,,Sim,1.0
+704,2022-02-10,,,RS,29.0,Mestrado,Tecnologia,,4.0,Francês,8200.0,7100.0,Não,Sim,Não,1.0
+705,2023-12-05,Candidato_705,Feminino,DF,54.0,Mestrado,Tecnologia,6.2,1.0,Francês,7300.0,,Não,Sim,Não,
+706,2023-05-17,Candidato_706,,PE,34.0,Graduação,Marketing,4.8,3.0,Francês,8300.0,9000.0,Não,Sim,Não,0.0
+707,2022-05-25,,,PR,40.0,Graduação,Educação,5.7,2.0,Espanhol,4900.0,4000.0,Não,Sim,,1.0
+708,2022-07-20,Candidato_708,Feminino,MG,43.0,Tecnólogo,Saúde,5.3,2.0,Nenhum,8900.0,8200.0,Sim,Não,,0.0
+709,2023-12-25,Candidato_709,Outro,DF,46.0,Tecnólogo,Engenharia,,1.0,Inglês,4300.0,4500.0,Não,,,
+710,2023-04-06,Candidato_710,Outro,BA,50.0,,,5.4,3.0,,,6700.0,Sim,Sim,Não,1.0
+711,2023-07-12,Candidato_711,Feminino,PR,44.0,Graduação,Marketing,4.3,1.0,Espanhol,7100.0,6500.0,Sim,,,0.0
+712,2023-07-01,,Feminino,BA,42.0,Ensino Médio,Engenharia,3.6,2.0,Inglês,3500.0,3500.0,Não,,Não,0.0
+713,2022-09-10,Candidato_713,Feminino,PR,27.0,Doutorado,Recursos Humanos,10.0,1.0,Inglês,7100.0,6900.0,Não,Sim,Não,
+714,2023-01-25,Candidato_714,Masculino,PE,64.0,Ensino Médio,Tecnologia,7.5,3.0,Inglês,7600.0,6400.0,Sim,Sim,Não,0.0
+715,2023-08-17,Candidato_715,Masculino,SC,40.0,Mestrado,Marketing,2.7,3.0,Alemão,5700.0,6700.0,Sim,Sim,Não,0.0
+716,2022-09-13,Candidato_716,Outro,BA,38.0,Ensino Médio,Recursos Humanos,5.7,1.0,Espanhol,5000.0,4100.0,Não,Não,Não,1.0
+717,2023-12-10,Candidato_717,Feminino,DF,38.0,,Marketing,7.9,2.0,Alemão,,8800.0,Sim,Sim,Não,0.0
+718,2023-03-26,Candidato_718,Masculino,PR,60.0,Doutorado,Administração,2.0,0.0,Inglês,7700.0,6400.0,Sim,Sim,Não,0.0
+719,2022-01-10,Candidato_719,Feminino,,30.0,Mestrado,Recursos Humanos,5.2,2.0,Alemão,,7400.0,Sim,Não,Não,0.0
+720,2022-08-30,Candidato_720,Outro,CE,54.0,Ensino Médio,,5.2,2.0,Alemão,,6100.0,Sim,Sim,Não,0.0
+721,2022-09-08,Candidato_721,Masculino,RS,50.0,Doutorado,Tecnologia,2.5,0.0,Espanhol,5900.0,5100.0,Não,Não,Não,
+722,2022-01-05,,Masculino,SP,41.0,,Educação,5.8,3.0,Francês,11500.0,9800.0,Não,Sim,,0.0
+723,2022-04-29,Candidato_723,Masculino,SC,61.0,Mestrado,Marketing,7.2,4.0,Alemão,6400.0,6300.0,Sim,Não,Não,
+724,2023-01-09,Candidato_724,Outro,SC,28.0,Ensino Médio,,8.0,0.0,Alemão,5300.0,5300.0,,Sim,Não,1.0
+725,2022-03-06,Candidato_725,Feminino,,34.0,Doutorado,Tecnologia,4.5,3.0,Inglês,7100.0,6100.0,Sim,Sim,Não,0.0
+726,2022-05-26,,Masculino,,21.0,Doutorado,Marketing,,1.0,Inglês,6600.0,7900.0,Não,Não,Não,0.0
+727,2022-08-12,Candidato_727,Outro,PE,64.0,Graduação,Educação,0.9,2.0,Inglês,,,,Sim,Não,0.0
+728,2022-08-27,Candidato_728,Feminino,,42.0,Doutorado,Financeiro,5.7,3.0,Nenhum,10700.0,10500.0,,Sim,Não,1.0
+729,2022-06-26,,Outro,,47.0,Graduação,Recursos Humanos,,,Alemão,4700.0,4200.0,Sim,Não,Não,0.0
+730,2022-10-09,Candidato_730,Feminino,SC,,,Educação,5.2,0.0,Inglês,7100.0,7100.0,Sim,Sim,Não,1.0
+731,2022-03-04,Candidato_731,Outro,RS,38.0,,Administração,4.0,0.0,Espanhol,,5400.0,Não,Não,Não,1.0
+732,2022-08-05,Candidato_732,Feminino,RS,37.0,Ensino Médio,Financeiro,6.0,1.0,Nenhum,5900.0,5900.0,Sim,Sim,Não,0.0
+733,2023-11-20,Candidato_733,Masculino,PE,36.0,Tecnólogo,Marketing,4.7,4.0,,10500.0,9600.0,Sim,Não,Não,0.0
+734,2023-04-06,Candidato_734,Feminino,PE,36.0,Ensino Médio,Tecnologia,3.3,1.0,Alemão,7600.0,6800.0,Sim,Sim,Não,0.0
+735,2023-09-02,Candidato_735,,,29.0,Doutorado,Tecnologia,3.5,0.0,Alemão,7500.0,8300.0,Sim,Sim,Não,0.0
+736,2022-04-15,Candidato_736,Outro,RJ,54.0,Mestrado,Marketing,8.9,2.0,,5100.0,4300.0,Sim,Não,Não,1.0
+737,2022-04-09,Candidato_737,Feminino,MG,59.0,Graduação,,5.9,0.0,,6200.0,5900.0,Não,Sim,,0.0
+738,2023-05-26,,Masculino,MG,34.0,Tecnólogo,Marketing,1.6,3.0,Francês,10600.0,9100.0,Não,Não,Sim,0.0
+739,2023-01-20,Candidato_739,Masculino,,,Ensino Médio,Saúde,6.1,3.0,Nenhum,8000.0,7200.0,Não,Não,Não,1.0
+740,2023-02-09,Candidato_740,Feminino,MG,56.0,,Financeiro,4.6,2.0,Alemão,6300.0,5400.0,Sim,Não,,0.0
+741,2023-06-02,Candidato_741,,PR,45.0,Mestrado,Tecnologia,5.0,4.0,Inglês,7900.0,9100.0,Não,Sim,Não,0.0
+742,2023-04-21,Candidato_742,Outro,,58.0,Mestrado,Financeiro,6.6,0.0,Espanhol,7500.0,8200.0,Sim,Sim,Não,0.0
+743,2023-12-10,Candidato_743,Masculino,DF,52.0,Tecnólogo,Educação,,,,5300.0,5400.0,Não,,Não,0.0
+744,2023-10-07,Candidato_744,Feminino,,64.0,Graduação,,3.3,1.0,Espanhol,6300.0,5600.0,Não,Não,Não,1.0
+745,2023-03-13,Candidato_745,Masculino,BA,35.0,Ensino Médio,Saúde,4.9,2.0,Espanhol,11500.0,11500.0,Sim,Não,Não,0.0
+746,2022-01-23,Candidato_746,,RS,31.0,Tecnólogo,Marketing,3.9,1.0,Inglês,7800.0,7900.0,,Não,Não,0.0
+747,2023-07-19,Candidato_747,Feminino,MG,52.0,Doutorado,Administração,6.2,1.0,Inglês,3900.0,4000.0,Sim,Sim,Não,0.0
+748,2023-11-08,Candidato_748,,RS,,,Marketing,4.5,4.0,Nenhum,8000.0,6600.0,Não,Não,Não,0.0
+749,2023-12-15,Candidato_749,Feminino,SC,58.0,Tecnólogo,Recursos Humanos,5.1,0.0,,9600.0,11400.0,Sim,Sim,Não,
+750,2023-04-03,Candidato_750,Feminino,SP,24.0,Ensino Médio,Marketing,,0.0,Inglês,5200.0,5100.0,,Sim,Não,0.0
+751,2022-03-24,Candidato_751,Outro,SC,58.0,Tecnólogo,Saúde,4.8,,Nenhum,6100.0,7100.0,Não,Sim,Não,
+752,2022-05-25,Candidato_752,Feminino,SP,30.0,Ensino Médio,Financeiro,,,Francês,9900.0,8000.0,Não,,Não,1.0
+753,2022-03-26,Candidato_753,Feminino,RJ,35.0,Mestrado,Tecnologia,9.8,2.0,Alemão,7100.0,,Sim,Sim,Não,0.0
+754,2022-03-19,Candidato_754,,RS,,Tecnólogo,Marketing,5.8,,Inglês,,5600.0,Sim,Sim,Não,
+755,2023-04-02,Candidato_755,Outro,SP,30.0,,Tecnologia,,2.0,Francês,4300.0,4800.0,Sim,Sim,Não,0.0
+756,2022-01-01,Candidato_756,Masculino,CE,53.0,Tecnólogo,Engenharia,1.8,3.0,Nenhum,9100.0,,Não,Sim,Não,0.0
+757,2022-02-20,Candidato_757,Outro,PR,48.0,Tecnólogo,Educação,3.5,3.0,Inglês,6600.0,7500.0,Não,Não,Não,0.0
+758,2023-11-16,Candidato_758,Outro,,19.0,Ensino Médio,,4.7,,Inglês,2700.0,3100.0,Sim,Sim,Não,0.0
+759,2023-12-18,Candidato_759,Masculino,SP,33.0,Ensino Médio,Tecnologia,3.6,1.0,Francês,3900.0,,Não,Sim,Não,0.0
+760,2023-03-22,Candidato_760,Outro,PR,26.0,Graduação,Administração,3.8,1.0,,5900.0,6300.0,,Não,Não,0.0
+761,2023-03-25,Candidato_761,Masculino,RS,,,Educação,8.2,2.0,Espanhol,4900.0,5300.0,Não,Não,Não,1.0
+762,2023-05-03,Candidato_762,Outro,,55.0,Doutorado,Recursos Humanos,5.1,2.0,Inglês,5200.0,5600.0,Sim,Não,Não,
+763,2022-02-03,,Masculino,PR,,Tecnólogo,Recursos Humanos,5.2,4.0,Alemão,11700.0,11200.0,Não,Não,Não,1.0
+764,2022-12-14,Candidato_764,Feminino,SC,39.0,,Administração,3.7,4.0,Francês,8400.0,9000.0,Não,,Não,
+765,2022-04-05,Candidato_765,Outro,CE,50.0,,Marketing,,4.0,Alemão,,2100.0,Sim,Não,Não,0.0
+766,2022-03-13,Candidato_766,Outro,DF,53.0,,Educação,,2.0,Nenhum,6400.0,6000.0,Sim,Não,Não,1.0
+767,2023-07-05,Candidato_767,Outro,BA,62.0,Tecnólogo,Tecnologia,,2.0,Alemão,6800.0,8000.0,Sim,Não,Não,0.0
+768,2022-06-03,Candidato_768,Outro,CE,40.0,Doutorado,Educação,1.8,0.0,Espanhol,4000.0,3200.0,Sim,Não,Sim,1.0
+769,2022-09-07,Candidato_769,Feminino,RS,62.0,Ensino Médio,,4.9,2.0,Espanhol,8100.0,7600.0,Sim,Sim,Não,0.0
+770,2023-11-05,Candidato_770,Outro,DF,,Tecnólogo,Saúde,,1.0,Alemão,2900.0,2500.0,Sim,Não,Não,0.0
+771,2023-03-14,Candidato_771,Feminino,,51.0,,Financeiro,8.4,2.0,,9200.0,7800.0,Não,Não,Não,0.0
+772,2022-04-28,Candidato_772,Feminino,MG,26.0,,Administração,8.7,2.0,Inglês,9900.0,11100.0,Não,Não,Não,0.0
+773,2022-11-02,Candidato_773,Feminino,SP,41.0,Doutorado,Marketing,2.5,1.0,Espanhol,11700.0,13700.0,Não,Não,Não,1.0
+774,2022-09-25,Candidato_774,Feminino,PR,25.0,Tecnólogo,Saúde,2.8,5.0,Alemão,,4300.0,Não,Sim,Não,1.0
+775,2022-02-23,Candidato_775,Masculino,PR,24.0,Mestrado,Educação,4.4,1.0,Alemão,,5100.0,Sim,Não,Não,1.0
+776,2022-08-24,,Masculino,SP,53.0,Tecnólogo,Educação,,3.0,Alemão,8400.0,7400.0,Não,Não,Não,0.0
+777,2023-01-24,Candidato_777,Outro,MG,35.0,Tecnólogo,Marketing,5.4,2.0,Inglês,9400.0,8000.0,Sim,Não,,0.0
+778,2023-02-05,Candidato_778,Masculino,BA,20.0,Ensino Médio,Tecnologia,4.3,3.0,Francês,8600.0,8700.0,Sim,Sim,Não,0.0
+779,2023-09-16,Candidato_779,,MG,45.0,Ensino Médio,Educação,5.6,,Nenhum,9200.0,10400.0,Não,Não,Não,0.0
+780,2022-10-30,,Outro,DF,23.0,Ensino Médio,Tecnologia,7.0,1.0,Francês,9800.0,8000.0,Não,,,1.0
+781,2022-07-26,Candidato_781,Outro,,61.0,Mestrado,Tecnologia,2.9,0.0,Nenhum,7400.0,,Sim,Sim,Não,0.0
+782,2022-08-17,Candidato_782,,DF,61.0,Tecnólogo,Financeiro,7.0,4.0,Nenhum,6600.0,6900.0,Sim,Não,Não,0.0
+783,2023-08-01,Candidato_783,Masculino,MG,38.0,Graduação,Tecnologia,3.5,,Alemão,4300.0,5100.0,Sim,Sim,Não,0.0
+784,2022-03-16,Candidato_784,,BA,,Doutorado,Engenharia,9.3,1.0,Espanhol,6400.0,6100.0,Sim,Sim,Não,1.0
+785,2023-03-11,Candidato_785,Outro,BA,57.0,Ensino Médio,Financeiro,8.2,,Alemão,6700.0,6600.0,Não,Não,Não,1.0
+786,2022-04-13,Candidato_786,,RS,18.0,Ensino Médio,Saúde,4.8,4.0,Inglês,5100.0,5600.0,Sim,Não,Não,0.0
+787,2023-02-26,Candidato_787,Outro,SP,53.0,Tecnólogo,Saúde,3.1,3.0,Nenhum,6900.0,7700.0,Não,Sim,Não,0.0
+788,2023-12-05,,Feminino,BA,,Tecnólogo,Educação,2.7,1.0,Espanhol,4900.0,4400.0,Sim,Sim,Não,0.0
+789,2022-11-02,Candidato_789,Feminino,DF,,Mestrado,Educação,6.7,0.0,,9200.0,10800.0,Sim,Não,Não,0.0
+790,2022-04-08,,Outro,BA,52.0,Mestrado,Tecnologia,4.9,4.0,Nenhum,7900.0,9100.0,Sim,Sim,Não,1.0
+791,2022-12-01,Candidato_791,,RS,30.0,Ensino Médio,Financeiro,6.9,,Alemão,6100.0,4900.0,Não,Sim,,0.0
+792,2023-03-11,Candidato_792,Outro,PR,27.0,Tecnólogo,Financeiro,9.4,1.0,,7400.0,6300.0,Sim,Não,Não,0.0
+793,2023-03-23,Candidato_793,Masculino,DF,61.0,Graduação,Engenharia,3.5,3.0,Espanhol,4800.0,4800.0,Não,,Não,0.0
+794,2022-11-04,Candidato_794,Feminino,RS,64.0,Doutorado,Tecnologia,2.5,3.0,Nenhum,5000.0,,Não,,Não,0.0
+795,2022-09-06,Candidato_795,Masculino,SC,27.0,Tecnólogo,Engenharia,5.4,2.0,Espanhol,5700.0,6200.0,Não,Sim,Não,1.0
+796,2022-06-15,Candidato_796,Masculino,SC,63.0,,Recursos Humanos,7.3,0.0,Espanhol,6600.0,5500.0,Sim,Sim,Não,0.0
+797,2023-04-26,Candidato_797,Outro,RJ,30.0,Mestrado,Tecnologia,3.1,3.0,Alemão,7300.0,7700.0,Não,Sim,Não,0.0
+798,2022-12-01,,Masculino,MG,54.0,,Administração,5.1,1.0,Francês,7300.0,7600.0,Não,Sim,Não,1.0
+799,2023-06-26,Candidato_799,Outro,SP,55.0,Ensino Médio,Administração,7.7,1.0,Inglês,4400.0,3900.0,Sim,Não,Não,0.0
+800,2022-04-16,Candidato_800,Feminino,PE,41.0,Tecnólogo,Marketing,,2.0,Francês,6800.0,6900.0,Sim,Sim,Não,1.0
+801,2023-07-17,Candidato_801,Outro,CE,19.0,Ensino Médio,Tecnologia,5.5,1.0,Espanhol,5400.0,4800.0,Não,Não,Não,0.0
+802,2022-03-22,Candidato_802,Masculino,RS,39.0,Tecnólogo,Financeiro,3.9,1.0,Nenhum,,200.0,Não,Não,Não,
+803,2022-05-13,Candidato_803,Masculino,,34.0,Ensino Médio,,5.2,2.0,Inglês,13200.0,13600.0,Sim,Não,Não,0.0
+804,2022-05-18,Candidato_804,Outro,CE,53.0,Doutorado,Saúde,6.4,,Inglês,5400.0,6400.0,Não,Não,Não,
+805,2022-07-03,Candidato_805,Outro,PR,31.0,Mestrado,Marketing,5.4,3.0,Nenhum,5500.0,4900.0,Não,Não,Não,0.0
+806,2023-02-05,,Masculino,,27.0,Doutorado,Educação,3.0,1.0,Inglês,4300.0,4100.0,Não,Não,Não,0.0
+807,2022-11-26,Candidato_807,Feminino,RS,52.0,Graduação,Administração,4.0,,Nenhum,4900.0,4400.0,Sim,,Não,0.0
+808,2023-05-23,Candidato_808,Feminino,PE,42.0,Mestrado,Tecnologia,7.9,4.0,Inglês,,6000.0,Não,Não,Não,0.0
+809,2022-03-10,Candidato_809,,CE,20.0,,Marketing,5.7,,Francês,,,Sim,Sim,Não,0.0
+810,2023-06-30,Candidato_810,Feminino,RS,64.0,Graduação,Tecnologia,6.7,3.0,Inglês,6600.0,7100.0,Sim,,Não,1.0
+811,2022-02-22,Candidato_811,,BA,55.0,,Administração,,1.0,Alemão,6400.0,5200.0,Sim,Não,Não,0.0
+812,2023-03-26,Candidato_812,Outro,PE,34.0,Tecnólogo,Marketing,6.6,0.0,Nenhum,9400.0,11100.0,Não,Não,Não,0.0
+813,2022-07-24,Candidato_813,Masculino,DF,,,,4.2,3.0,Inglês,6000.0,4900.0,Sim,Sim,Não,1.0
+814,2022-05-06,Candidato_814,Masculino,,41.0,Mestrado,Engenharia,3.5,1.0,,7000.0,,,Não,Não,0.0
+815,2022-02-12,Candidato_815,,SC,46.0,Tecnólogo,Administração,6.5,0.0,Alemão,5200.0,6000.0,Sim,Sim,Não,0.0
+816,2022-04-21,Candidato_816,Outro,MG,60.0,Mestrado,Financeiro,7.3,3.0,Inglês,10400.0,10500.0,Não,Não,Não,0.0
+817,2023-10-25,Candidato_817,Outro,SC,42.0,Tecnólogo,Financeiro,3.2,1.0,Inglês,,7800.0,,Não,Não,
+818,2022-07-02,Candidato_818,Feminino,PE,53.0,,Tecnologia,,1.0,,6700.0,6900.0,Não,Sim,Sim,0.0
+819,2022-04-05,Candidato_819,,DF,43.0,Doutorado,Saúde,,4.0,Alemão,,6500.0,,Não,,1.0
+820,2023-01-09,Candidato_820,Masculino,PR,55.0,Ensino Médio,Administração,8.2,,Alemão,6900.0,7900.0,Não,,Não,1.0
+821,2023-06-04,Candidato_821,Masculino,DF,18.0,Graduação,Educação,6.1,3.0,Nenhum,6700.0,,,Sim,Não,0.0
+822,2022-12-26,Candidato_822,Masculino,CE,37.0,Tecnólogo,,2.4,2.0,Alemão,3900.0,3800.0,,Não,Não,0.0
+823,2023-11-27,Candidato_823,Outro,PR,45.0,Graduação,Recursos Humanos,4.8,1.0,Nenhum,9200.0,10400.0,Sim,Não,Não,
+824,2022-10-08,Candidato_824,Outro,CE,33.0,Graduação,Saúde,4.5,0.0,Francês,6500.0,7800.0,Não,Sim,Não,
+825,2022-07-14,Candidato_825,Feminino,RS,64.0,Mestrado,Engenharia,2.7,,Inglês,10800.0,11400.0,Sim,Sim,Não,0.0
+826,2022-07-14,Candidato_826,Feminino,PE,34.0,Tecnólogo,Marketing,4.8,0.0,Inglês,7800.0,9000.0,Sim,,Não,0.0
+827,2023-10-29,Candidato_827,Outro,RS,57.0,Graduação,,4.4,3.0,Espanhol,2000.0,2100.0,Sim,Não,Não,0.0
+828,2022-04-03,Candidato_828,Outro,RJ,45.0,Doutorado,Financeiro,4.3,1.0,,4400.0,4700.0,Não,Não,Não,0.0
+829,2023-11-03,Candidato_829,Masculino,DF,29.0,Graduação,Saúde,4.2,0.0,Alemão,2700.0,2900.0,Sim,Sim,Não,0.0
+830,2022-03-02,Candidato_830,,,44.0,Doutorado,Financeiro,7.9,1.0,Alemão,4400.0,4800.0,Não,Não,Não,0.0
+831,2023-09-26,Candidato_831,Feminino,BA,59.0,Mestrado,Marketing,4.3,1.0,Francês,3700.0,3400.0,Sim,Sim,Não,1.0
+832,2022-02-20,Candidato_832,Outro,RS,64.0,Graduação,Recursos Humanos,5.1,4.0,Alemão,7500.0,7700.0,Sim,Não,,0.0
+833,2023-02-07,Candidato_833,Feminino,RJ,47.0,Ensino Médio,Administração,4.9,3.0,Espanhol,6400.0,6600.0,Não,,Não,0.0
+834,2022-01-05,Candidato_834,,SP,58.0,Mestrado,Saúde,,3.0,Nenhum,8500.0,7900.0,Sim,,Não,1.0
+835,2023-04-11,Candidato_835,Masculino,SC,51.0,Doutorado,,5.2,1.0,Inglês,6900.0,6500.0,Sim,Não,Não,0.0
+836,2023-08-27,Candidato_836,Feminino,PR,54.0,,Administração,,2.0,Francês,6500.0,7200.0,Sim,Sim,Sim,0.0
+837,2023-11-13,Candidato_837,Feminino,,23.0,Graduação,Administração,5.2,3.0,Inglês,11000.0,11400.0,Sim,Sim,,0.0
+838,2023-06-18,Candidato_838,Outro,PE,24.0,Tecnólogo,Administração,3.3,3.0,Nenhum,7400.0,6400.0,Não,Sim,,0.0
+839,2023-02-09,Candidato_839,Masculino,RS,,Tecnólogo,Tecnologia,4.6,,Francês,6800.0,,Não,Sim,Não,0.0
+840,2023-05-28,Candidato_840,Feminino,PE,49.0,Doutorado,Recursos Humanos,,,Nenhum,5300.0,,Não,Sim,Não,1.0
+841,2023-10-07,Candidato_841,Masculino,SC,42.0,Doutorado,Engenharia,,0.0,Alemão,4600.0,4500.0,Não,Não,Sim,1.0
+842,2022-08-21,Candidato_842,Feminino,BA,50.0,Tecnólogo,Recursos Humanos,5.3,3.0,Alemão,8500.0,7500.0,Não,Não,,0.0
+843,2023-06-08,Candidato_843,,DF,24.0,Doutorado,Recursos Humanos,5.3,,Alemão,8400.0,9900.0,Não,,Não,0.0
+844,2022-12-12,Candidato_844,Outro,DF,29.0,Mestrado,Recursos Humanos,5.8,1.0,,10100.0,,Não,Não,Não,0.0
+845,2022-02-15,Candidato_845,Feminino,PE,33.0,Ensino Médio,Educação,6.1,1.0,Nenhum,8000.0,,Sim,Sim,Não,0.0
+846,2023-06-30,,Feminino,CE,33.0,Ensino Médio,Financeiro,4.7,,Nenhum,6200.0,5200.0,Não,Sim,Não,0.0
+847,2022-03-19,Candidato_847,Masculino,,60.0,Mestrado,Marketing,3.2,,Inglês,8000.0,7800.0,Não,Não,Não,0.0
+848,2023-12-31,Candidato_848,Masculino,DF,53.0,Ensino Médio,Financeiro,2.6,1.0,Nenhum,6800.0,7300.0,Não,Sim,Não,0.0
+849,2022-03-14,,Feminino,,30.0,,Saúde,7.0,0.0,Alemão,,7600.0,Sim,Sim,Não,0.0
+850,2022-09-06,Candidato_850,Outro,RJ,24.0,Mestrado,Recursos Humanos,6.5,,Espanhol,,9800.0,Não,Sim,Sim,0.0
+851,2022-02-16,,Masculino,BA,53.0,Doutorado,Engenharia,6.3,5.0,Nenhum,6700.0,,,Não,Não,0.0
+852,2022-05-01,Candidato_852,Masculino,MG,64.0,Mestrado,Saúde,6.6,1.0,Espanhol,10500.0,12100.0,Não,,Não,0.0
+853,2022-08-02,Candidato_853,Masculino,SC,26.0,Tecnólogo,Financeiro,4.7,0.0,Alemão,9400.0,9100.0,Sim,Sim,Não,1.0
+854,2022-08-27,Candidato_854,Feminino,DF,49.0,Doutorado,,3.8,3.0,Nenhum,7000.0,7100.0,Não,,Não,0.0
+855,2022-02-25,Candidato_855,Feminino,BA,28.0,Tecnólogo,,,2.0,Inglês,8300.0,,Sim,Sim,Sim,1.0
+856,2022-12-16,Candidato_856,,PE,25.0,Doutorado,Financeiro,2.8,1.0,Inglês,7600.0,7000.0,Sim,,Não,1.0
+857,2022-04-17,Candidato_857,Feminino,SP,50.0,Ensino Médio,Administração,7.4,1.0,Espanhol,7000.0,6400.0,Sim,,Não,1.0
+858,2022-02-17,Candidato_858,Outro,MG,40.0,Mestrado,Financeiro,4.0,4.0,Inglês,10800.0,12100.0,Sim,,Não,0.0
+859,2023-07-27,Candidato_859,Outro,MG,42.0,Graduação,Administração,7.1,1.0,Inglês,8000.0,7300.0,Não,Não,Não,1.0
+860,2022-12-03,,Feminino,CE,25.0,Doutorado,Tecnologia,4.6,2.0,Inglês,5300.0,6000.0,Sim,Não,Não,0.0
+861,2022-01-26,Candidato_861,Outro,BA,,Doutorado,,3.6,2.0,Alemão,4900.0,,Sim,Não,Não,0.0
+862,2022-09-14,Candidato_862,Masculino,CE,39.0,Tecnólogo,Engenharia,2.8,1.0,Inglês,5000.0,4200.0,Não,Sim,Não,0.0
+863,2022-01-08,Candidato_863,Masculino,CE,,Ensino Médio,Engenharia,3.8,,Francês,8000.0,,Sim,Sim,Não,0.0
+864,2023-09-17,Candidato_864,Masculino,SP,57.0,Tecnólogo,,7.8,1.0,Nenhum,6300.0,6400.0,Sim,Não,Não,0.0
+865,2022-09-10,Candidato_865,Feminino,RJ,,Tecnólogo,Tecnologia,2.8,0.0,Inglês,7700.0,,Sim,Não,Não,0.0
+866,2023-11-23,Candidato_866,Masculino,,46.0,Ensino Médio,Recursos Humanos,,2.0,Inglês,8900.0,7900.0,Sim,Sim,Não,0.0
+867,2023-12-20,Candidato_867,Outro,RS,58.0,Graduação,Engenharia,3.3,0.0,Inglês,11100.0,9600.0,Sim,Não,Não,
+868,2022-10-30,Candidato_868,Feminino,DF,46.0,Tecnólogo,Financeiro,6.5,3.0,Francês,6400.0,7300.0,Sim,Sim,Não,0.0
+869,2023-10-01,Candidato_869,,CE,,Tecnólogo,Tecnologia,4.7,0.0,Inglês,4200.0,4000.0,Não,Sim,Não,0.0
+870,2022-02-25,Candidato_870,,SC,51.0,Doutorado,Marketing,4.4,,Inglês,10600.0,10400.0,Não,Sim,Não,1.0
+871,2023-12-27,Candidato_871,Masculino,PR,45.0,Ensino Médio,Administração,,3.0,Nenhum,4100.0,3300.0,Não,Não,Não,0.0
+872,2023-06-10,Candidato_872,Masculino,SC,,Mestrado,Financeiro,4.8,1.0,Francês,4000.0,3800.0,Não,Não,Não,0.0
+873,2023-04-19,Candidato_873,Feminino,SP,32.0,Graduação,Administração,2.7,2.0,Francês,10500.0,,Sim,Não,Não,
+874,2022-01-28,Candidato_874,Outro,SP,40.0,Graduação,Administração,1.6,2.0,Inglês,9100.0,10300.0,,Não,Não,0.0
+875,2022-03-19,Candidato_875,Feminino,PE,61.0,Ensino Médio,Recursos Humanos,5.2,2.0,Francês,8000.0,8600.0,Sim,Não,Sim,0.0
+876,2022-08-04,Candidato_876,Feminino,RJ,43.0,Doutorado,Tecnologia,3.7,1.0,Espanhol,6900.0,7400.0,Não,Sim,Não,1.0
+877,2023-01-21,Candidato_877,Masculino,DF,21.0,,Tecnologia,8.4,4.0,Francês,6500.0,6500.0,Não,Não,Não,1.0
+878,2022-12-31,Candidato_878,Feminino,CE,43.0,Ensino Médio,Saúde,7.0,1.0,Francês,5700.0,5800.0,Sim,Sim,Não,0.0
+879,2023-10-28,Candidato_879,Feminino,SC,,Doutorado,,8.4,4.0,Francês,6400.0,,Sim,Sim,Não,0.0
+880,2023-06-10,Candidato_880,Masculino,PR,26.0,Graduação,Saúde,3.6,0.0,Alemão,6900.0,6200.0,Não,Sim,Não,
+881,2023-11-30,Candidato_881,Feminino,SP,22.0,Graduação,Recursos Humanos,5.3,2.0,Alemão,4300.0,3800.0,Não,Não,,0.0
+882,2022-11-08,Candidato_882,Masculino,SP,49.0,Mestrado,Administração,-0.2,2.0,Alemão,5400.0,6400.0,Não,Não,Não,0.0
+883,2022-01-07,Candidato_883,Masculino,RJ,37.0,Ensino Médio,,4.4,,Francês,2800.0,2300.0,Não,Não,Não,0.0
+884,2022-01-03,Candidato_884,,PR,28.0,Tecnólogo,Saúde,5.2,4.0,Espanhol,,6200.0,,,Não,0.0
+885,2023-09-15,,Masculino,PR,32.0,Tecnólogo,Marketing,5.3,,Francês,7200.0,7400.0,Não,Não,Não,1.0
+886,2022-12-29,Candidato_886,Feminino,RJ,,Mestrado,Saúde,4.9,4.0,Inglês,10600.0,11600.0,Não,Não,Não,
+887,2023-05-23,Candidato_887,Masculino,SP,45.0,,Tecnologia,5.1,2.0,Espanhol,7800.0,7900.0,Sim,,Não,1.0
+888,2022-10-01,Candidato_888,Masculino,DF,39.0,Doutorado,Saúde,-0.4,,Alemão,5900.0,5600.0,Sim,Não,Não,0.0
+889,2023-05-21,Candidato_889,Feminino,BA,58.0,Mestrado,Administração,5.5,,Nenhum,6600.0,,Sim,Sim,Não,0.0
+890,2022-01-15,Candidato_890,Feminino,,,Mestrado,Saúde,6.0,1.0,Espanhol,8000.0,8700.0,Não,Não,Não,1.0
+891,2022-07-11,Candidato_891,Outro,RJ,43.0,Tecnólogo,Engenharia,7.7,0.0,Alemão,7500.0,8500.0,Não,Sim,Não,0.0
+892,2023-09-23,Candidato_892,Feminino,PR,61.0,Doutorado,Educação,5.7,1.0,Espanhol,,6700.0,Não,Sim,Não,1.0
+893,2023-04-30,Candidato_893,Feminino,CE,,Mestrado,Administração,4.7,2.0,Espanhol,7800.0,7000.0,,Sim,Não,1.0
+894,2022-01-28,Candidato_894,,RJ,59.0,Mestrado,Engenharia,,2.0,Francês,6500.0,6200.0,Sim,Sim,Não,0.0
+895,2023-12-15,Candidato_895,Feminino,DF,43.0,Doutorado,Recursos Humanos,0.3,4.0,,5900.0,5200.0,Sim,Não,Não,0.0
+896,2022-02-08,Candidato_896,Feminino,RJ,42.0,Ensino Médio,,4.0,1.0,Nenhum,5800.0,4800.0,Não,Não,,0.0
+897,2022-09-30,Candidato_897,,MG,,Doutorado,Tecnologia,3.5,3.0,Alemão,5100.0,4500.0,Não,Sim,Não,1.0
+898,2022-08-19,Candidato_898,Feminino,SC,62.0,Tecnólogo,Educação,4.9,4.0,,4800.0,4900.0,Não,Sim,Não,0.0
+899,2022-03-27,,Outro,PR,36.0,Ensino Médio,Educação,0.6,4.0,Nenhum,,11500.0,Sim,Sim,Não,1.0
+900,2023-04-19,Candidato_900,Feminino,PE,28.0,Graduação,Tecnologia,7.6,1.0,Espanhol,7200.0,8000.0,Não,Não,,0.0
+901,2022-05-06,Candidato_901,Feminino,PE,30.0,Doutorado,Educação,4.5,2.0,Inglês,6700.0,5500.0,Sim,Sim,Não,0.0
+902,2023-06-21,Candidato_902,Outro,PR,25.0,Tecnólogo,Tecnologia,,3.0,Nenhum,6000.0,5800.0,Não,,Não,0.0
+903,2022-05-25,Candidato_903,Masculino,DF,57.0,Ensino Médio,Engenharia,5.4,0.0,Alemão,7900.0,6700.0,Sim,Não,Não,0.0
+904,2023-06-09,Candidato_904,,MG,21.0,Doutorado,,7.5,1.0,Espanhol,9400.0,9100.0,Sim,Sim,Não,
+905,2022-07-31,Candidato_905,,MG,64.0,Mestrado,Marketing,1.3,2.0,Inglês,8400.0,8200.0,Não,Não,Não,0.0
+906,2022-01-25,Candidato_906,Outro,SP,48.0,Doutorado,Administração,5.2,3.0,Nenhum,8800.0,8800.0,Sim,Não,Não,0.0
+907,2023-08-03,,Outro,SC,45.0,Graduação,Tecnologia,7.3,,Espanhol,5800.0,6700.0,Sim,Sim,Não,1.0
+908,2023-01-29,Candidato_908,Feminino,BA,28.0,Doutorado,Administração,4.8,1.0,Espanhol,7000.0,7900.0,Não,Sim,Não,0.0
+909,2022-03-08,Candidato_909,Masculino,RS,60.0,Ensino Médio,Recursos Humanos,3.1,1.0,Alemão,5900.0,6200.0,Sim,Sim,Não,0.0
+910,2022-08-21,Candidato_910,,DF,18.0,Ensino Médio,Engenharia,3.8,0.0,Inglês,7200.0,8300.0,Não,Não,Não,0.0
+911,2022-04-19,Candidato_911,Masculino,RS,,Doutorado,Marketing,4.2,2.0,Francês,9500.0,,Sim,,Sim,0.0
+912,2022-05-26,Candidato_912,,RS,55.0,Ensino Médio,Recursos Humanos,3.6,2.0,Espanhol,7900.0,8900.0,,Não,Não,0.0
+913,2022-04-21,Candidato_913,Outro,PR,41.0,,Engenharia,4.7,,Nenhum,10300.0,10600.0,Sim,Sim,Não,1.0
+914,2022-08-16,,Masculino,PE,64.0,Doutorado,,8.0,2.0,Alemão,6400.0,6500.0,Sim,Sim,Não,0.0
+915,2022-04-21,Candidato_915,Feminino,,48.0,Mestrado,Administração,3.8,3.0,Alemão,5400.0,5900.0,Não,Sim,Não,0.0
+916,2023-04-15,Candidato_916,Feminino,BA,58.0,Mestrado,Financeiro,4.0,2.0,Espanhol,8000.0,6500.0,Não,Sim,Não,
+917,2022-02-03,Candidato_917,Feminino,PR,63.0,Tecnólogo,Marketing,5.9,2.0,Espanhol,,7700.0,Não,Sim,Sim,0.0
+918,2023-09-15,Candidato_918,Feminino,RS,43.0,Doutorado,Educação,4.7,3.0,Espanhol,7600.0,8900.0,,Sim,Não,0.0
+919,2023-01-04,Candidato_919,Outro,CE,22.0,,,2.3,2.0,Francês,7300.0,7900.0,Sim,Não,Não,0.0
+920,2023-08-18,Candidato_920,Outro,,37.0,Mestrado,Marketing,4.9,2.0,Espanhol,6000.0,4900.0,Não,Não,Não,1.0
+921,2023-07-08,Candidato_921,Outro,DF,,Tecnólogo,Educação,4.8,1.0,Inglês,7400.0,7000.0,Não,Não,Não,0.0
+922,2023-03-01,Candidato_922,Outro,DF,28.0,Doutorado,Engenharia,7.0,4.0,Nenhum,8900.0,,Não,Sim,Não,0.0
+923,2023-09-05,Candidato_923,Outro,SP,50.0,Doutorado,Tecnologia,3.1,,,9200.0,10900.0,Não,Não,Não,0.0
+924,2023-06-02,Candidato_924,Feminino,RJ,55.0,Graduação,Administração,7.0,1.0,Francês,,5700.0,Sim,Não,Sim,1.0
+925,2023-11-23,Candidato_925,Feminino,CE,44.0,Graduação,Saúde,4.8,1.0,Nenhum,7500.0,8500.0,Não,,Não,0.0
+926,2022-10-09,Candidato_926,Feminino,PE,51.0,Mestrado,Saúde,2.8,4.0,Alemão,10000.0,11500.0,,Sim,Não,0.0
+927,2022-11-16,Candidato_927,Feminino,MG,32.0,Graduação,Engenharia,2.4,2.0,Espanhol,,,Não,Sim,Não,0.0
+928,2023-03-19,,Outro,PE,49.0,Mestrado,Recursos Humanos,8.9,4.0,Nenhum,5700.0,6500.0,Sim,Não,,0.0
+929,2022-11-11,Candidato_929,Outro,SP,38.0,Ensino Médio,Administração,4.7,3.0,Alemão,8600.0,8000.0,Não,Sim,Não,
+930,2023-01-12,Candidato_930,Outro,DF,63.0,Mestrado,Recursos Humanos,,2.0,Francês,8200.0,8500.0,Não,Sim,Não,1.0
+931,2022-10-16,Candidato_931,Masculino,RS,,Graduação,Administração,1.6,2.0,Inglês,5300.0,5400.0,Sim,Sim,Sim,0.0
+932,2023-03-13,Candidato_932,Feminino,MG,23.0,Ensino Médio,Engenharia,10.3,0.0,Espanhol,4200.0,4500.0,Sim,Sim,Não,0.0
+933,2023-10-24,Candidato_933,Feminino,PR,55.0,Graduação,,6.8,2.0,Inglês,7400.0,8100.0,Não,Não,Não,0.0
+934,2022-10-04,Candidato_934,Outro,SC,39.0,Mestrado,Tecnologia,4.5,0.0,Francês,6200.0,6100.0,Sim,Sim,,0.0
+935,2023-12-11,Candidato_935,Feminino,RS,35.0,Tecnólogo,Recursos Humanos,4.4,4.0,Nenhum,3600.0,4200.0,Não,Não,Não,0.0
+936,2023-08-05,Candidato_936,,,31.0,Doutorado,Engenharia,6.5,3.0,Nenhum,5600.0,6300.0,Sim,Não,Não,1.0
+937,2023-05-18,Candidato_937,,CE,27.0,Graduação,Tecnologia,6.4,3.0,,,9100.0,Não,Sim,,1.0
+938,2023-09-16,Candidato_938,Masculino,RJ,,Mestrado,Administração,,0.0,Francês,6700.0,6600.0,Não,Sim,,1.0
+939,2023-05-31,Candidato_939,Masculino,MG,30.0,Ensino Médio,Engenharia,5.0,4.0,Espanhol,10100.0,8200.0,Não,Sim,Não,1.0
+940,2022-12-16,Candidato_940,Masculino,BA,48.0,Graduação,Administração,6.1,2.0,Alemão,2800.0,2800.0,Não,Não,Não,0.0
+941,2023-03-22,Candidato_941,Outro,MG,47.0,,Recursos Humanos,1.5,1.0,Inglês,9700.0,11200.0,Não,,,0.0
+942,2022-12-16,Candidato_942,Feminino,PE,20.0,Doutorado,Engenharia,4.3,1.0,Inglês,,5500.0,Não,Não,Não,0.0
+943,2023-08-30,,Outro,DF,47.0,Mestrado,Administração,1.7,3.0,Nenhum,6000.0,7200.0,Não,Não,Não,0.0
+944,2023-10-26,Candidato_944,,PE,23.0,Tecnólogo,Recursos Humanos,6.2,2.0,Nenhum,3900.0,4400.0,Não,Não,Não,
+945,2022-05-17,,Feminino,PE,46.0,Ensino Médio,Tecnologia,3.6,1.0,Espanhol,7900.0,8600.0,Sim,Não,Não,1.0
+946,2022-08-31,Candidato_946,Masculino,,25.0,Mestrado,Financeiro,1.9,2.0,Francês,3300.0,3500.0,Sim,Não,Não,1.0
+947,2023-06-27,,Masculino,RS,61.0,Ensino Médio,Tecnologia,3.4,1.0,Inglês,,,Sim,Sim,Não,0.0
+948,2022-02-09,Candidato_948,Outro,BA,62.0,Graduação,Administração,5.3,2.0,Espanhol,4000.0,4400.0,Não,Não,Não,0.0
+949,2022-08-17,Candidato_949,Masculino,BA,60.0,Doutorado,Engenharia,4.6,3.0,Nenhum,4300.0,4200.0,,Não,Sim,0.0
+950,2023-07-02,Candidato_950,Outro,PE,61.0,Doutorado,Saúde,2.7,2.0,,4600.0,5200.0,,Não,Não,0.0
+951,2022-08-11,Candidato_951,Outro,SC,50.0,Tecnólogo,Tecnologia,1.6,1.0,Inglês,5600.0,6000.0,Sim,Não,Não,0.0
+952,2022-01-06,Candidato_952,Feminino,CE,34.0,Doutorado,Tecnologia,5.1,0.0,Nenhum,8900.0,,Sim,Sim,Não,0.0
+953,2022-11-18,Candidato_953,Feminino,PE,28.0,,Recursos Humanos,3.8,,Nenhum,10000.0,11200.0,Sim,Não,Não,1.0
+954,2023-04-13,,Feminino,RJ,30.0,Tecnólogo,Educação,,1.0,Alemão,5800.0,4900.0,Sim,,Não,1.0
+955,2022-03-16,,Outro,DF,28.0,Mestrado,Saúde,4.7,,Francês,6900.0,5700.0,Sim,Sim,Não,0.0
+956,2022-01-04,Candidato_956,Feminino,RS,48.0,Doutorado,Administração,5.9,2.0,Nenhum,8000.0,9000.0,Não,Sim,Não,
+957,2023-10-08,Candidato_957,Masculino,PR,45.0,Tecnólogo,Financeiro,6.7,2.0,,6300.0,5700.0,Sim,Não,Não,0.0
+958,2022-04-28,Candidato_958,Masculino,RJ,61.0,Graduação,Engenharia,5.3,1.0,Espanhol,7900.0,8200.0,Não,Não,Não,0.0
+959,2023-08-29,Candidato_959,Outro,SC,23.0,Ensino Médio,Educação,4.4,1.0,Nenhum,7000.0,6800.0,Não,Não,Não,1.0
+960,2023-05-19,Candidato_960,Outro,MG,58.0,Ensino Médio,Administração,,2.0,Espanhol,6500.0,5300.0,Não,Não,Não,0.0
+961,2023-07-28,Candidato_961,Feminino,MG,33.0,Graduação,Marketing,4.3,0.0,Nenhum,4200.0,3400.0,Sim,Não,,0.0
+962,2023-03-17,Candidato_962,Outro,RJ,21.0,Graduação,Financeiro,1.7,1.0,Inglês,7300.0,,Sim,Não,,0.0
+963,2022-07-13,Candidato_963,,PE,52.0,Ensino Médio,Tecnologia,,3.0,Alemão,8900.0,9300.0,Não,Sim,Não,0.0
+964,2023-12-16,Candidato_964,Masculino,,,,Marketing,6.8,0.0,Alemão,5400.0,,Sim,Sim,Não,1.0
+965,2023-01-27,Candidato_965,Masculino,SP,29.0,,Tecnologia,9.0,0.0,Inglês,3100.0,3700.0,Sim,Não,Não,0.0
+966,2022-01-26,Candidato_966,Feminino,SP,28.0,Graduação,Tecnologia,,1.0,,6400.0,,Não,Não,Não,1.0
+967,2023-03-11,,Outro,,54.0,Doutorado,Marketing,2.6,1.0,Alemão,10000.0,9000.0,Não,Não,,0.0
+968,2022-06-22,Candidato_968,,PE,42.0,Mestrado,,4.3,0.0,Espanhol,9400.0,10400.0,,Sim,Não,1.0
+969,2022-10-27,Candidato_969,Masculino,BA,35.0,Doutorado,Recursos Humanos,10.0,2.0,,5800.0,6400.0,,Não,Não,0.0
+970,2023-10-07,Candidato_970,Outro,BA,,Doutorado,Marketing,4.9,2.0,Francês,7900.0,7600.0,Não,Sim,Não,0.0
+971,2022-11-22,Candidato_971,Masculino,RS,40.0,Graduação,Administração,5.5,2.0,Espanhol,,9700.0,,Sim,,0.0
+972,2023-02-14,Candidato_972,,PR,55.0,Ensino Médio,Educação,2.0,0.0,Espanhol,10000.0,11800.0,Não,,Não,0.0
+973,2022-04-28,Candidato_973,Masculino,PR,35.0,Tecnólogo,Educação,5.3,3.0,,3900.0,3100.0,Sim,,Não,1.0
+974,2023-12-25,Candidato_974,Outro,,43.0,Doutorado,Marketing,8.9,0.0,Nenhum,4900.0,4300.0,,,Não,0.0
+975,2022-08-13,Candidato_975,Feminino,CE,,Ensino Médio,Administração,7.6,2.0,Inglês,3000.0,,Não,Sim,Não,1.0
+976,2023-06-16,Candidato_976,Masculino,,21.0,Tecnólogo,Recursos Humanos,3.8,3.0,Nenhum,5600.0,,Não,,Não,0.0
+977,2022-04-23,Candidato_977,Masculino,SP,,,Educação,4.2,4.0,Inglês,9100.0,7600.0,Sim,Não,Não,1.0
+978,2022-05-20,Candidato_978,Feminino,SC,46.0,Tecnólogo,Administração,2.7,2.0,Nenhum,5900.0,,Não,Sim,Não,0.0
+979,2023-07-13,Candidato_979,Feminino,BA,51.0,Ensino Médio,Recursos Humanos,3.3,2.0,Alemão,4400.0,4300.0,Sim,Sim,Não,1.0
+980,2022-01-01,Candidato_980,Masculino,BA,34.0,Mestrado,Administração,,1.0,Espanhol,7500.0,7500.0,Não,Sim,Não,1.0
+981,2022-03-31,Candidato_981,Outro,RJ,60.0,Ensino Médio,Tecnologia,4.8,4.0,Nenhum,7500.0,6600.0,Não,Não,Sim,0.0
+982,2023-10-16,Candidato_982,,RS,60.0,Graduação,Educação,8.0,3.0,,5000.0,5300.0,Sim,Sim,Não,0.0
+983,2022-11-16,Candidato_983,Feminino,PR,33.0,Tecnólogo,Recursos Humanos,5.7,,Francês,,,Sim,,Não,0.0
+984,2023-07-04,Candidato_984,Masculino,DF,19.0,Mestrado,Educação,7.7,2.0,Inglês,7300.0,6400.0,Não,Não,Não,0.0
+985,2022-05-19,Candidato_985,Feminino,SC,,Tecnólogo,Tecnologia,7.1,1.0,Francês,8500.0,8000.0,Não,Não,Não,0.0
+986,2023-05-26,,,BA,25.0,Tecnólogo,Marketing,3.9,3.0,,5700.0,5900.0,Não,Sim,Não,0.0
+987,2022-09-16,Candidato_987,Outro,CE,30.0,Doutorado,Tecnologia,3.5,1.0,Francês,5400.0,6300.0,Sim,Sim,,1.0
+988,2023-11-04,Candidato_988,Feminino,MG,59.0,Graduação,Educação,3.6,0.0,Francês,10800.0,12600.0,Não,Sim,Não,1.0
+989,2023-11-21,,Feminino,,25.0,Tecnólogo,Educação,1.6,3.0,Alemão,6500.0,5900.0,Não,Não,Não,1.0
+990,2022-01-10,Candidato_990,Outro,RS,47.0,,Financeiro,5.1,2.0,Espanhol,7500.0,8200.0,Não,,Não,0.0
+991,2022-09-18,Candidato_991,Feminino,CE,49.0,,Recursos Humanos,-0.8,3.0,,8300.0,9200.0,Não,Sim,Não,1.0
+992,2023-10-12,Candidato_992,Outro,RS,,Doutorado,Marketing,6.2,,Inglês,3400.0,3800.0,Sim,Não,,0.0
+993,2022-06-21,Candidato_993,Outro,RJ,64.0,Graduação,Tecnologia,5.1,0.0,Nenhum,7000.0,7200.0,Sim,Sim,Não,0.0
+994,2022-01-13,,,,47.0,Graduação,Recursos Humanos,5.9,3.0,,3700.0,3000.0,Sim,Sim,Não,
+995,2022-06-17,Candidato_995,Feminino,BA,18.0,Ensino Médio,Engenharia,7.1,2.0,Nenhum,6700.0,7400.0,Não,Não,Não,1.0
+996,2023-10-04,Candidato_996,Masculino,MG,60.0,Mestrado,Recursos Humanos,5.4,2.0,Francês,9700.0,8200.0,,Sim,Não,1.0
+997,2023-08-19,Candidato_997,,CE,56.0,Doutorado,Engenharia,8.3,3.0,Espanhol,5000.0,4200.0,Não,Sim,Não,0.0
+998,2022-11-17,Candidato_998,,RS,34.0,Doutorado,Marketing,,1.0,Francês,3700.0,3900.0,Sim,Não,Não,1.0
+999,2022-11-15,Candidato_999,Feminino,PR,37.0,Ensino Médio,Tecnologia,3.5,1.0,Espanhol,10800.0,12900.0,Sim,Sim,Sim,0.0
+1000,2023-09-05,Candidato_1000,Masculino,RJ,41.0,Ensino Médio,Tecnologia,4.5,2.0,Alemão,4700.0,4200.0,Sim,Sim,Não,1.0
