@@ -25,19 +25,19 @@ df.select_dtypes(include='number').hist(figsize=(15, 10), bins=30)
 plt.tight_layout()
 plt.show()
 # 7. 🔠 Análise de variáveis categóricas
-for col in df.select_dtypes(include='object'):
+'for col in df.select_dtypes(include='object'):
     print(df[col].value_counts())
-    print("-" * 40)
+    print("-" * 40)'
 # 8. 📉 Correlações
 plt.figure(figsize=(12, 8))
 sns.heatmap(df.corr(numeric_only=True), annot=True, cmap='coolwarm')
 plt.title("Mapa de Correlação")
 plt.show()
 # 9. 📌 Outliers (usando boxplots)
-for col in df.select_dtypes(include='number'):
+'for col in df.select_dtypes(include='number'):
     sns.boxplot(data=df[col])
     plt.title(f"Boxplot de {col}")
-    plt.show()
+    plt.show()'
 # 10. 📈 Relacionamentos entre variáveis
-sns.pairplot(df.select_dtypes(include='number'))
-plt.show()
+'sns.pairplot(df.select_dtypes(include='number'))
+plt.show()'
