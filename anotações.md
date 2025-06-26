@@ -1,6 +1,6 @@
 # 📚 Anotações de Estudo - Data Analysis com Python
 
-## 🔍 Pesquisas Recomendadas
+## 🔍 Pesquisas Recomendada
 
 ### Bibliotecas:
 - `Seaborn`
